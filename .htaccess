@@ -1,0 +1,5 @@
+ErrorDocument 404 https://frogbidacademy.com/404.php
+
+RewriteEngine on
+
+RewriteRule ^Home index.php [NE,L]
