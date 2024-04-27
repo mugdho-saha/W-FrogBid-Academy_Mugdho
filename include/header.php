@@ -17,11 +17,11 @@
                         <nav>
                             <ul>
                                 <li class="mega__menu position-static">
-                                    <a class="headerarea__has__dropdown" href="index.html">হোম</a>
+                                    <a class="headerarea__has__dropdown" href="Home">হোম</a>
                                 </li>
 
                                 <li class="mega__menu position-static">
-                                    <a class="headerarea__has__dropdown" href="index.html">আমাদের সম্পর্কে</a>
+                                    <a class="headerarea__has__dropdown" href="About">আমাদের সম্পর্কে</a>
                                 </li>
 
                                 <li class="mega__menu position-static">
@@ -33,7 +33,7 @@
                                             <div class="col-5 mega__menu__single__wrap">
                                                 <h4 class="mega__menu__title"><a href="#">আর্ট কোর্সসমূহঃ</a></h4>
                                                 <ul class="mega__menu__item">
-                                                    <li><a href="#">মিনি মাস্টার<span class="mega__menu__label">৪-৬ বছর</span></a>
+                                                    <li><a href="Mini-Master">মিনি মাস্টার<span class="mega__menu__label">৪-৬ বছর</span></a>
                                                     </li>
                                                     <li><a href="#">জুনিয়ার ভিশন<span class="mega__menu__label">৭-১২ বছর</span></a>
                                                     </li>
@@ -49,7 +49,7 @@
                                                             class="mega__menu__label">৬ষ্ঠ থেকে ১২দশ শ্রেনী</span></a>
                                                 </h4>
                                                 <ul class="mega__menu__item">
-                                                    <li><a href="#">কোড ষ্টার<span class="mega__menu__label">কোর্সের সময়কালঃ ৩ মাস</span></a>
+                                                    <li><a href="Code-Star">কোড ষ্টার<span class="mega__menu__label">কোর্সের সময়কালঃ ৩ মাস</span></a>
                                                     </li>
                                                     <li><a href="#">কোড ক্র্যাফট<span class="mega__menu__label">কোর্সের সময়কালঃ ৬ মাস</span></a>
                                                     </li>

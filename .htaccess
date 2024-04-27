@@ -3,3 +3,6 @@ ErrorDocument 404 https://frogbidacademy.com/404.php
 RewriteEngine on
 
 RewriteRule ^Home index.php [NE,L]
+RewriteRule ^About about.php [NE,L]
+RewriteRule ^Mini-Master mini_master.php [NE,L]
+RewriteRule ^Code-Star code_star.php [NE,L]
