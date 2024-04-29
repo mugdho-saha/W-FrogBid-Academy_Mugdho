@@ -4,9 +4,9 @@
             <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12" data-aos="fade-up">
                 <div class="about__right__wraper__2">
                     <div class="educationarea__img" data-tilt>
-                        <img loading="lazy" class="aboutarea__2__img__1" src="img/about/about_2.png"
+                        <img loading="lazy" class="aboutarea__2__img__1" src="images/about/about_1.png"
                              alt="education">
-                        <img loading="lazy" class="aboutarea__2__img__2" src="img/about/about_19.png"
+                        <img loading="lazy" class="aboutarea__2__img__2" src="images/about/about_2.png"
                              alt="education">
                         <img loading="lazy" class="aboutarea__2__img__3" src="img/about/about_4.png"
                              alt="education">

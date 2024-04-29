@@ -1,5 +1,5 @@
 <!-- about__tap__section__start -->
-<div class="abouttabarea sp_top_100 sp_bottom_70">
+<div class="abouttabarea sp_top_100 sp_bottom_70" id="art_program">
     <div class="container">
         <div class="row">
             <div class="section__title text-center" data-aos="fade-up">
@@ -18,7 +18,7 @@
                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12 grid-item column__custom__class swiper-slide">
                         <div class="gridarea__wraper">
                             <div class="gridarea__img">
-                                <a href="course-details.html"><img loading="lazy" src="img/grid/kid_1.jpg"
+                                <a href="course-details.html"><img loading="lazy" src="images/art_course/kid_1.jpg"
                                                                    alt="grid"></a>
                                 <div class="gridarea__small__button gridarea__small__button__1">
 
@@ -68,7 +68,7 @@
                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12 grid-item column__custom__class swiper-slide">
                         <div class="gridarea__wraper">
                             <div class="gridarea__img">
-                                <a href="course-details.html"><img loading="lazy" src="img/grid/kid_1.jpg"
+                                <a href="course-details.html"><img loading="lazy" src="images/art_course/kid_2.jpg"
                                                                    alt="grid"></a>
                                 <div class="gridarea__small__button gridarea__small__button__1">
 
@@ -119,7 +119,7 @@
                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12 grid-item column__custom__class swiper-slide">
                         <div class="gridarea__wraper">
                             <div class="gridarea__img">
-                                <a href="course-details.html"><img loading="lazy" src="img/grid/kid_1.jpg"
+                                <a href="course-details.html"><img loading="lazy" src="images/art_course/kid_3.jpg"
                                                                    alt="grid"></a>
                                 <div class="gridarea__small__button gridarea__small__button__1">
 
@@ -170,7 +170,7 @@
                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12 grid-item column__custom__class swiper-slide">
                         <div class="gridarea__wraper">
                             <div class="gridarea__img">
-                                <a href="course-details.html"><img loading="lazy" src="img/grid/kid_1.jpg"
+                                <a href="course-details.html"><img loading="lazy" src="images/art_course/kid_4.jpg"
                                                                    alt="grid"></a>
                                 <div class="gridarea__small__button gridarea__small__button__1">
 
@@ -218,51 +218,6 @@
                             </div>
                         </div>
                     </div>
-
-                    <!--<div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12 grid-item column__custom__class swiper-slide">
-                        <div class="gridarea__wraper">
-                            <div class="gridarea__img">
-                                <a href="course-details.html"><img loading="lazy"  src="img/grid/kid_2.jpg" alt="grid"></a>
-                                <div class="gridarea__small__button">
-
-                                </div>
-                                <div class="gridarea__small__icon">
-                                    <a href="#"><i class="icofont-heart-alt"></i></a>
-                                </div>
-
-                            </div>
-                            <div class="gridarea__content">
-                                <div class="gridarea__list">
-                                    <ul>
-                                        <li>
-                                            <i class="icofont-book-alt"></i> ২৪ টি ক্লাশ
-                                        </li>
-                                        <li>
-                                            <i class="icofont-clock-time"></i> ১ঃ৩০ মিনিট
-                                        </li>
-                                    </ul>
-                                </div>
-                                <div class="gridarea__heading">
-                                    <h3><a href="course-details.html">কোড ষ্টার </a></h3> <span class="mega__menu__label">৩ মাস মেয়াদি</span>
-                                </div>
-                                <div class="gridarea__price">
-                                    ৳৯,৬০০ <del>/ ৳১২,০০০</del>
-                                    <span> কোর্স ফী </span>
-
-                                </div>
-                                <div class="gridarea__bottom">
-
-                                    <a href="instructor-details.html">
-                                        <div class="gridarea__small__img">
-                                            <div class="gridarea__small__content">
-                                                <h6> প্রতি ক্লাশে সর্বচ্চ ১২ জন </h6>
-                                            </div>
-                                        </div>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>-->
                 </div>
             </div>
         </div>
@@ -285,7 +240,7 @@
                             <span class="counter">27</span>+
 
                         </div>
-                        <p>Total Acheivment</p>
+                        <p> মোট প্রজেক্ট </p>
 
                     </div>
                 </div>
@@ -300,7 +255,7 @@
                             <span class="counter">145</span>+
 
                         </div>
-                        <p>TOTAL STUDENTS</p>
+                        <p> মোট ছাত্র ছাত্রী </p>
 
                     </div>
                 </div>
@@ -315,7 +270,7 @@
                             <span class="counter">10</span>+
 
                         </div>
-                        <p>TOTAL INSTRUCTOR</p>
+                        <p> মোট ইন্সট্রাক্টর </p>
 
                     </div>
                 </div>
@@ -330,7 +285,7 @@
                             <span class="counter">214</span>+
 
                         </div>
-                        <p>OVER THE WORLD</p>
+                        <p> বিশ্ব ব্যাপী ছাত্র ছাত্রীর সংখ্যা</p>
 
                     </div>
                 </div>
@@ -406,7 +361,7 @@
 <!-- register__section__end-->
 
 <!-- about__tap__section__start -->
-<div class="abouttabarea sp_top_100 sp_bottom_70">
+<div class="abouttabarea sp_top_100 sp_bottom_70" id="coding_program">
     <div class="container">
         <div class="row">
             <div class="section__title text-center" data-aos="fade-up">
@@ -425,7 +380,7 @@
                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12 grid-item column__custom__class swiper-slide">
                         <div class="gridarea__wraper">
                             <div class="gridarea__img">
-                                <a href="course-details.html"><img loading="lazy" src="img/grid/kid_2.jpg"
+                                <a href="course-details.html"><img loading="lazy" src="images/coding_course/coder_1.jpg"
                                                                    alt="grid"></a>
                                 <div class="gridarea__small__button">
                                 </div>
@@ -475,7 +430,7 @@
                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12 grid-item column__custom__class swiper-slide">
                         <div class="gridarea__wraper">
                             <div class="gridarea__img">
-                                <a href="course-details.html"><img loading="lazy" src="img/grid/kid_2.jpg"
+                                <a href="course-details.html"><img loading="lazy" src="images/coding_course/coder_2.jpg"
                                                                    alt="grid"></a>
                                 <div class="gridarea__small__button">
                                 </div>
@@ -525,7 +480,7 @@
                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12 grid-item column__custom__class swiper-slide">
                         <div class="gridarea__wraper">
                             <div class="gridarea__img">
-                                <a href="course-details.html"><img loading="lazy" src="img/grid/kid_2.jpg"
+                                <a href="course-details.html"><img loading="lazy" src="images/coding_course/coder_3.jpg"
                                                                    alt="grid"></a>
                                 <div class="gridarea__small__button">
                                 </div>

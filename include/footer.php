@@ -1,4 +1,4 @@
-<div class="footerarea footerarea__image" style="background-image:url(img/footer/footer_bg.png)">
+<div class="footerarea footerarea__image" style="background-image:url('images/footer_bg.png'); background-repeat: no-repeat; background-size: cover; background-position: center;">
     <div class="container">
         <div class="footerarea__newsletter__wraper">
             <div class="row">

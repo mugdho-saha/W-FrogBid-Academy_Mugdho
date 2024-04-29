@@ -51,9 +51,9 @@
                                                 <ul class="mega__menu__item">
                                                     <li><a href="Code-Star">কোড ষ্টার<span class="mega__menu__label">কোর্সের সময়কালঃ ৩ মাস</span></a>
                                                     </li>
-                                                    <li><a href="#">কোড ক্র্যাফট<span class="mega__menu__label">কোর্সের সময়কালঃ ৬ মাস</span></a>
+                                                    <li><a href="Code_Craft">কোড ক্র্যাফট<span class="mega__menu__label">কোর্সের সময়কালঃ ৬ মাস</span></a>
                                                     </li>
-                                                    <li><a href="#">কোড মাস্টার<span class="mega__menu__label">কোর্সের সময়কালঃ ১ বছর</span></a>
+                                                    <li><a href="Code_Master">কোড মাস্টার<span class="mega__menu__label">কোর্সের সময়কালঃ ১ বছর</span></a>
                                                     </li>
                                                 </ul>
                                             </div>

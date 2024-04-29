@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>কোড ষ্টার : ৩ মাস - ফ্রগবিড একাডেমি</title>
+    <title>কোড মাস্টার : ১ বছর - ফ্রগবিড একাডেমি</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -43,8 +43,8 @@
     </div>
     <!-- theme fixed shadow -->
     <!-- breadcrumbarea__section__start -->
-
     <div class="breadcrumbarea breadcrumbarea--2">
+
         <div class="container">
             <div class="row">
                 <div class="col-xl-8">
@@ -56,16 +56,15 @@
                             </ul>
                         </div>
                     </div>
-
                     <div class="course__details__heading" data-aos="fade-up">
-                        <h3>কোড স্টার </h3>
+                        <h3>কোড মাস্টার</h3>
                     </div>
                     <div class="course__details__price" data-aos="fade-up">
                         <ul>
                             <li>
                                 <div class="course__price">
-                                    ৳৯,৬০০
-                                    <del>/ ১২,০০০</del>
+                                    ৳৩৬,০০০
+                                    <del>/ ৳৪৫,০০০</del>
                                     ২০% ছাড়
                                 </div>
                             </li>
@@ -98,13 +97,9 @@
     <div class="blogarea__2 sp_top_100 sp_bottom_100">
         <div class="container">
             <div class="row">
-
                 <div class="col-xl-8 col-lg-8">
-
-                    <div class="blog__details__content__wraper">
                         <div class="course__details__paragraph" data-aos="fade-up">
-                            <p>৩ মাস মেয়াদি প্রোগ্রামিং কোর্সে সম্পূর্ণ কোর্সটি মোট ৪ টি মডিউল এবং ২৪ টি ক্লাসে ভাগ করা
-                                হয়েছে , যেখানে আপনার সন্তান ৪ টি পূর্ণাঙ্গ প্রজেক্ট বাস্তবে লাইভ করতে পারবে।
+                            <p>১ বছর মেয়াদি প্রোগ্রামিং কোর্সে সম্পূর্ণ কোর্সটি মোট ৪ টি এ্যাডভান্স মডিউল, ৯৬ টি ক্লাস এবং ১২টি প্রজেক্টে ভাগ করা হয়েছে।
                             </p>
                         </div>
 
@@ -116,7 +111,7 @@
                                     ইন্সট্রাক্টর : <span> মনোজিত সাহা</span>
                                 </li>
                                 <li>
-                                    ক্লাশ : <span> ২৪ টি </span>
+                                    ক্লাশ : <span> ৯৬ টি </span>
                                 </li>
                                 <li>
                                     সময় : <span>  ১ঃ৩০ মিনিট (প্রতিটি ক্লাশ)</span>
@@ -124,7 +119,7 @@
                             </ul>
                             <ul>
                                 <li>
-                                    কোর্স লেভেল : <span> বেসিক </span>
+                                    কোর্স লেভেল : <span> এ্যাডভান্স </span>
                                 </li>
                                 <li>
                                     ভাষা : <span> বাংলা ও ইংরেজি </span>
@@ -144,7 +139,7 @@
                                         <li class="nav-item" role="presentation">
                                             <button class="single__tab__link active" data-bs-toggle="tab"
                                                     data-bs-target="#projects__two" type="button"><i
-                                                        class="icofont-book-alt"></i> কোর্স কারিকুলাম
+                                                    class="icofont-book-alt"></i> কোর্স কারিকুলাম
                                             </button>
                                         </li>
                                     </ul>
@@ -159,7 +154,7 @@
                                                 <button class="accordion-button" type="button" data-bs-toggle="collapse"
                                                         data-bs-target="#collapseOne" aria-expanded="true"
                                                         aria-controls="collapseOne">
-                                                    মডিউলঃ ১ <span> ৬টি ক্লাশ </span>
+                                                    মডিউলঃ ১ <span> ২৪টি ক্লাশ </span>
                                                 </button>
                                             </h2>
                                             <div id="collapseOne" class="accordion-collapse collapse show"
@@ -177,56 +172,52 @@
                                                     </div>
                                                     <div class="scc__wrap">
                                                         <div class="scc__info">
-                                                            <h5>Elements and Tags</h5>
+                                                            <h5>Headings</h5>
                                                         </div>
                                                     </div>
                                                     <div class="scc__wrap">
                                                         <div class="scc__info">
-                                                            <h5>Images and Multimedia</h5>
+                                                            <h5>Paragraphs </h5>
                                                         </div>
                                                     </div>
                                                     <div class="scc__wrap">
                                                         <div class="scc__info">
-                                                            <h5>Forms for User Input</h5>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="accordion-item">
-                                            <h2 class="accordion-header" id="headingTwo">
-                                                <button class="accordion-button collapsed" type="button"
-                                                        data-bs-toggle="collapse" data-bs-target="#collapseTwo"
-                                                        aria-expanded="false" aria-controls="collapseTwo">
-                                                    মডিউলঃ ২ <span>৬ টি ক্লাশ</span>
-                                                </button>
-                                            </h2>
-                                            <div id="collapseTwo" class="accordion-collapse collapse"
-                                                 aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
-                                                <div class="accordion-body">
-                                                    <div class="scc__wrap">
-                                                        <div class="scc__info">
-                                                            <h5>Styling Text</h5>
+                                                            <h5>HTML webpage</h5>
                                                         </div>
                                                     </div>
                                                     <div class="scc__wrap">
                                                         <div class="scc__info">
-                                                            <h5>Fonts </h5>
+                                                            <h5>Semantic HTML: Using semantic tags</h5>
                                                         </div>
                                                     </div>
                                                     <div class="scc__wrap">
                                                         <div class="scc__info">
-                                                            <h5>Colors </h5>
+                                                            <h5>Semantic HTML: Using semantic tags</h5>
                                                         </div>
                                                     </div>
                                                     <div class="scc__wrap">
                                                         <div class="scc__info">
-                                                            <h5>Managing Layouts with CSS Box Model </h5>
+                                                            <h5>Form Validation with HTML attributes</h5>
                                                         </div>
                                                     </div>
                                                     <div class="scc__wrap">
                                                         <div class="scc__info">
-                                                            <h5>Responsive Designs</h5>
+                                                            <h5>Creating a contact form for a webpage</h5>
+                                                        </div>
+                                                    </div>
+                                                    <div class="scc__wrap">
+                                                        <div class="scc__info">
+                                                            <h5>CSS Box Model: Margins, Borders, Padding</h5>
+                                                        </div>
+                                                    </div>
+                                                    <div class="scc__wrap">
+                                                        <div class="scc__info">
+                                                            <h5>Building Responsive Designs</h5>
+                                                        </div>
+                                                    </div>
+                                                    <div class="scc__wrap">
+                                                        <div class="scc__info">
+                                                            <h5>Front-End Design Framework (Bootstrap)</h5>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -237,7 +228,7 @@
                                                 <button class="accordion-button collapsed" type="button"
                                                         data-bs-toggle="collapse" data-bs-target="#collapseThree"
                                                         aria-expanded="false" aria-controls="collapseThree">
-                                                    মডিউলঃঃ ৩ <span> ৬ টি ক্লাশ</span>
+                                                    মডিউলঃঃ ২ <span> ২৪ টি ক্লাশ</span>
                                                 </button>
                                             </h2>
                                             <div id="collapseThree" class="accordion-collapse collapse"
@@ -245,27 +236,32 @@
                                                 <div class="accordion-body">
                                                     <div class="scc__wrap">
                                                         <div class="scc__info">
-                                                            <h5>Interactive Web Development with JavaScript</h5>
+                                                            <h5>Introduction to JavaScript</h5>
                                                         </div>
                                                     </div>
                                                     <div class="scc__wrap">
                                                         <div class="scc__info">
-                                                            <h5>Variables</h5>
+                                                            <h5>Selecting and Modifying HTML Elements</h5>
                                                         </div>
                                                     </div>
                                                     <div class="scc__wrap">
                                                         <div class="scc__info">
-                                                            <h5>Data Types and Operators</h5>
+                                                            <h5>Click, Mouseover, Key Press</h5>
                                                         </div>
                                                     </div>
                                                     <div class="scc__wrap">
                                                         <div class="scc__info">
-                                                            <h5>Conditional Statements and Loops</h5>
+                                                            <h5>Form Validation using JavaScript</h5>
                                                         </div>
                                                     </div>
                                                     <div class="scc__wrap">
                                                         <div class="scc__info">
-                                                            <h5>JavaScript Libraries</h5>
+                                                            <h5>DOM Manipulation with jQuery</h5>
+                                                        </div>
+                                                    </div>
+                                                    <div class="scc__wrap">
+                                                        <div class="scc__info">
+                                                            <h5>Event Handling with jQuery</h5>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -277,7 +273,7 @@
                                                 <button class="accordion-button collapsed" type="button"
                                                         data-bs-toggle="collapse" data-bs-target="#collapseFour"
                                                         aria-expanded="false" aria-controls="collapseFour">
-                                                    মডিউলঃঃ ৪ <span> ৬ টি ক্লাশ</span>
+                                                    মডিউলঃঃ ৩ <span> ২৪ টি ক্লাশ</span>
                                                 </button>
                                             </h2>
                                             <div id="collapseFour" class="accordion-collapse collapse"
@@ -290,17 +286,71 @@
                                                     </div>
                                                     <div class="scc__wrap">
                                                         <div class="scc__info">
-                                                            <h5>Conditional Statements</h5>
+                                                            <h5>Conditional Statements in Python</h5>
                                                         </div>
                                                     </div>
                                                     <div class="scc__wrap">
                                                         <div class="scc__info">
-                                                            <h5>Loops</h5>
+                                                            <h5>Using Loops for Iteration in Python</h5>
                                                         </div>
                                                     </div>
                                                     <div class="scc__wrap">
                                                         <div class="scc__info">
-                                                            <h5>(OOP) in Python</h5>
+                                                            <h5>Reading from and Writing to Files</h5>
+                                                        </div>
+                                                    </div>
+                                                    <div class="scc__wrap">
+                                                        <div class="scc__info">
+                                                            <h5>Dictionary Manipulations and Methods</h5>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="accordion-item">
+                                            <h2 class="accordion-header" id="heading_three">
+                                                <button class="accordion-button collapsed" type="button"
+                                                        data-bs-toggle="collapse" data-bs-target="#collapseThree"
+                                                        aria-expanded="false" aria-controls="collapseFour">
+                                                    মডিউলঃঃ ৪ <span> ২৪ টি ক্লাশ</span>
+                                                </button>
+                                            </h2>
+                                            <div id="collapseThree" class="accordion-collapse collapse"
+                                                 aria-labelledby="heading_three" data-bs-parent="#accordionExample">
+                                                <div class="accordion-body">
+                                                    <div class="scc__wrap">
+                                                        <div class="scc__info">
+                                                            <h5>Introduction to Web Frameworks: Bootstrap</h5>
+                                                        </div>
+                                                    </div>
+                                                    <div class="scc__wrap">
+                                                        <div class="scc__info">
+                                                            <h5>Setting up Bootstrap Environment</h5>
+                                                        </div>
+                                                    </div>
+                                                    <div class="scc__wrap">
+                                                        <div class="scc__info">
+                                                            <h5>Creating Views</h5>
+                                                        </div>
+                                                    </div>
+                                                    <div class="scc__wrap">
+                                                        <div class="scc__info">
+                                                            <h5>Form Submission and Validation</h5>
+                                                        </div>
+                                                    </div>
+                                                    <div class="scc__wrap">
+                                                        <div class="scc__info">
+                                                            <h5>Working with Bootstrap Versions</h5>
+                                                        </div>
+                                                    </div>
+                                                    <div class="scc__wrap">
+                                                        <div class="scc__info">
+                                                            <h5>Setting up MySQL</h5>
+                                                        </div>
+                                                    </div>
+                                                    <div class="scc__wrap">
+                                                        <div class="scc__info">
+                                                            <h5>Introduction to Deployment: Hosting Applications</h5>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -310,65 +360,55 @@
                                 </div>
                             </div>
                         </div>
-
-
-                    </div>
                 </div>
-
-
                 <div class="col-xl-4 col-lg-4">
-
                     <div class="course__details__sidebar--2">
                         <div class="event__sidebar__wraper" data-aos="fade-up">
-
-
                             <div class="blogarae__img__2 course__details__img__2" data-aos="fade-up">
                                 <img loading="lazy" src="img/blog/blog_7.png" alt="blog">
                             </div>
-
                             <div class="event__price__wraper">
 
                                 <div class="event__price">
-                                    ৳১,২০০
-                                    <del>/ ৳১,৫০০</del>
+                                    ৳৩৬,০০০
+                                    <del>/ ৳৪৫,০০০</del>
                                 </div>
                                 <div class="event__Price__button">
                                     <a href="#">২০% ছাড়</a>
                                 </div>
                             </div>
-
                             <div class="course__summery__lists">
                                 <ul>
                                     <li>
                                         <div class="course__summery__item">
                                             <span class="sb_label"> ইন্সট্রাকটর:</span><span class="sb_content"><a
-                                                        href="instructor-details.html"> মনোজিত সাহা </a></span>
+                                                    href="instructor-details.html"> মনোজিত সাহা </a></span>
                                         </div>
                                     </li>
 
                                     <li>
                                         <div class="course__summery__item">
-                                            <span class="sb_label"> সময়কাল </span><span class="sb_content"> ৩ মাস </span>
+                                            <span class="sb_label"> সময়কাল </span><span class="sb_content"> ৬ মাস </span>
                                         </div>
                                     </li>
 
                                     <li>
                                         <div class="course__summery__item">
-                                            <span class="sb_label"> ক্লশের সংখ্যা </span><span class="sb_content"> ২৪ টি </span>
+                                            <span class="sb_label"> ক্লশের সংখ্যা </span><span class="sb_content"> ৪৮ টি </span>
                                         </div>
                                     </li>
 
                                     <li>
                                         <div class="course__summery__item">
                                             <span class="sb_label">কোর্স লেভেল</span><span
-                                                    class="sb_content">বেসিক</span>
+                                                class="sb_content"> ইন্টারমিডিয়েট </span>
                                         </div>
                                     </li>
 
                                     <li>
                                         <div class="course__summery__item">
                                             <span class="sb_label">ভাষা </span><span
-                                                    class="sb_content">বাংলা ও ইংরেজি</span>
+                                                class="sb_content">বাংলা ও ইংরেজি</span>
                                         </div>
                                     </li>
 
@@ -389,13 +429,10 @@
                             <div class="course__summery__button">
                                 <p> যোগাযোগ করুন </p>
                                 <a class="default__button default__button--3" href="tel:+8801729277769"><i
-                                            class="icofont-phone"></i> +৮৮০ ১৭২৯ ২৭ ৭৭ ৬৯</a>
+                                        class="icofont-phone"></i> +৮৮০ ১৭২৯ ২৭ ৭৭ ৬৯</a>
                             </div>
                         </div>
-
-
                         <div class="blogsidebar__content__wraper__2" data-aos="fade-up">
-
                             <h4 class="sidebar__title"> অনুসরন করুন </h4>
                             <div class="follow__icon">
                                 <ul>

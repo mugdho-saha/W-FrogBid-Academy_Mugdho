@@ -78,7 +78,7 @@
                             </div>
                             <div class="col-xl-5 col-lg-5 col-md-8 col-sm-12 col-12" data-aos="fade-up">
                                 <div class="herobanner__video registerarea__video">
-                                    <img loading="lazy" src="img/herobanner/herobanner__slider__5.png"
+                                    <img loading="lazy" src="images/banner/1.png"
                                          alt="Video Banner">
                                 </div>
                             </div>
@@ -117,7 +117,7 @@
                             </div>
                             <div class="col-xl-5 col-lg-5 col-md-8 col-sm-12 col-12" data-aos="fade-up">
                                 <div class="herobanner__video registerarea__video">
-                                    <img loading="lazy" src="img/herobanner/herobanner__slider__5.png"
+                                    <img loading="lazy" src="images/banner/2.png"
                                          alt="Video Banner">
                                 </div>
                             </div>
@@ -174,12 +174,12 @@
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12" data-aos="fade-up">
                     <div class="single__blog__wraper">
                         <div class="single__blog__img">
-                            <img loading="lazy" src="img/program/kids_2.png" alt="blog">
+                            <img loading="lazy" src="images/art.png" alt="blog">
                         </div>
                         <div class="single__blog__content">
-                            <h4><a href="#"> চারুকলা </a></h4>
+                            <h4><a href="#art_program"> চারুকলা </a></h4>
                             <div class="single__blog__bottom__button">
-                                <a href="#"> বিস্তারিত দেখুন </a>
+                                <a href="#art_program"> বিস্তারিত দেখুন </a>
                             </div>
                         </div>
                     </div>
@@ -188,12 +188,12 @@
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12" data-aos="fade-up">
                     <div class="single__blog__wraper">
                         <div class="single__blog__img">
-                            <img loading="lazy" src="img/program/kids_3.png" alt="blog">
+                            <img loading="lazy" src="images/coding.png" alt="blog">
                         </div>
                         <div class="single__blog__content">
-                            <h4><a href="#"> কোডিং </a></h4>
+                            <h4><a href="#coding_program"> কোডিং </a></h4>
                             <div class="single__blog__bottom__button">
-                                <a href="#"> বিস্তারিত দেখুন </a>
+                                <a href="#coding_program"> বিস্তারিত দেখুন </a>
                             </div>
                         </div>
                     </div>
@@ -250,13 +250,8 @@
                                     </div>
                                 </div>
                                 <div class="service__content service__content__2">
-                                    <h3><a href="course-details.html">Daily Routnies</a></h3>
+                                    <h3><a href="course-details.html"> রিভিউ ক্লাশ </a></h3>
                                     <p>Construction is a general term the art and science to form </p>
-                                </div>
-                                <div class="service__button">
-                                    <a href="#">View Subject
-                                        <i class="icofont-long-arrow-right"></i>
-                                    </a>
                                 </div>
                                 <div class="service__small__img">
                                     <svg class="icon__hover__img" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -288,13 +283,8 @@
                                     </div>
                                 </div>
                                 <div class="service__content service__content__2">
-                                    <h3><a href="course-details.html">Toy & Games</a></h3>
+                                    <h3><a href="course-details.html"> অভিজ্ঞ ইন্সট্রাক্টর </a></h3>
                                     <p>Construction is a general term the art and science to form </p>
-                                </div>
-                                <div class="service__button">
-                                    <a href="#">View Subject
-                                        <i class="icofont-long-arrow-right"></i>
-                                    </a>
                                 </div>
                                 <div class="service__small__img">
                                     <svg class="icon__hover__img" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -332,13 +322,8 @@
                                     </div>
                                 </div>
                                 <div class="service__content service__content__2">
-                                    <h3><a href="course-details.html">Activity Room</a></h3>
+                                    <h3><a href="course-details.html"> যুগোপযোগী কারিকুলাম </a></h3>
                                     <p>Construction is a general term the art and science to form </p>
-                                </div>
-                                <div class="service__button">
-                                    <a href="#">View Subject
-                                        <i class="icofont-long-arrow-right"></i>
-                                    </a>
                                 </div>
                                 <div class="service__small__img">
                                     <svg class="icon__hover__img" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -380,7 +365,7 @@
                                     </div>
                                 </div>
                                 <div class="service__content service__content__2">
-                                    <h3><a href="course-details.html">Summer Champ</a></h3>
+                                    <h3><a href="course-details.html">আধুনিক ক্লাশরুম</a></h3>
                                     <p>Construction is a general term the art and science to form </p>
                                 </div>
                                 <div class="service__button">
@@ -599,7 +584,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 aos-init aos-animate" data-aos="fade-up">
                     <div class="single__blog__wraper">
                         <div class="single__blog__img">
-                            <img loading="lazy" src="img/blog/blog_5.png" alt="blog">
+                            <img loading="lazy" src="images/blog/blog_1.jpg" alt="blog">
                             <div class="single__blog__button">
                                 <a class="default__button" href="#">Story</a>
                             </div>
@@ -619,7 +604,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 aos-init aos-animate" data-aos="fade-up">
                     <div class="single__blog__wraper">
                         <div class="single__blog__img">
-                            <img loading="lazy" src="img/blog/blog_24.png" alt="blog">
+                            <img loading="lazy" src="images/blog/blog_2.jpg" alt="blog">
                             <div class="single__blog__button">
                                 <a class="default__button" href="#">Story</a>
                             </div>
@@ -639,7 +624,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 aos-init aos-animate" data-aos="fade-up">
                     <div class="single__blog__wraper">
                         <div class="single__blog__img">
-                            <img loading="lazy" src="img/blog/blog_25.png" alt="blog">
+                            <img loading="lazy" src="images/blog/blog_3.jpg" alt="blog">
                             <div class="single__blog__button">
                                 <a class="default__button" href="#">Story</a>
                             </div>
@@ -655,11 +640,11 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-12 aos-init aos-animate" data-aos="fade-up">
+                <!--<div class="col-xl-12 aos-init aos-animate" data-aos="fade-up">
                     <div class="blogarea__bottom__button">
                         <a class="default__button" href="#">MORE BLOG</a>
                     </div>
-                </div>
+                </div>-->
             </div>
         </div>
     </div>

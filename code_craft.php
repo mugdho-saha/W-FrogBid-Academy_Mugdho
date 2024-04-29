@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>কোড ষ্টার : ৩ মাস - ফ্রগবিড একাডেমি</title>
+    <title>কোড ক্র্যাফট : ৬ মাস - ফ্রগবিড একাডেমি</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -43,7 +43,6 @@
     </div>
     <!-- theme fixed shadow -->
     <!-- breadcrumbarea__section__start -->
-
     <div class="breadcrumbarea breadcrumbarea--2">
         <div class="container">
             <div class="row">
@@ -58,14 +57,14 @@
                     </div>
 
                     <div class="course__details__heading" data-aos="fade-up">
-                        <h3>কোড স্টার </h3>
+                        <h3>কোড ক্রাফট </h3>
                     </div>
                     <div class="course__details__price" data-aos="fade-up">
                         <ul>
                             <li>
                                 <div class="course__price">
-                                    ৳৯,৬০০
-                                    <del>/ ১২,০০০</del>
+                                    ৳১৬,০০০
+                                    <del>/ ৳২০,০০০</del>
                                     ২০% ছাড়
                                 </div>
                             </li>
@@ -103,8 +102,8 @@
 
                     <div class="blog__details__content__wraper">
                         <div class="course__details__paragraph" data-aos="fade-up">
-                            <p>৩ মাস মেয়াদি প্রোগ্রামিং কোর্সে সম্পূর্ণ কোর্সটি মোট ৪ টি মডিউল এবং ২৪ টি ক্লাসে ভাগ করা
-                                হয়েছে , যেখানে আপনার সন্তান ৪ টি পূর্ণাঙ্গ প্রজেক্ট বাস্তবে লাইভ করতে পারবে।
+                            <p>৬ মাস মেয়াদি প্রোগ্রামিং কোর্সে সম্পূর্ণ কোর্সটি মোট ৪ টি মডিউল এবং ৪৮ টি ক্লাসে ভাগ করা
+                                হয়েছে , যেখানে আপনার সন্তান ৫/৬ টি পূর্ণাঙ্গ প্রজেক্ট বাস্তবে লাইভ করতে পারবে।
                             </p>
                         </div>
 
@@ -116,7 +115,7 @@
                                     ইন্সট্রাক্টর : <span> মনোজিত সাহা</span>
                                 </li>
                                 <li>
-                                    ক্লাশ : <span> ২৪ টি </span>
+                                    ক্লাশ : <span> ৪৮ টি </span>
                                 </li>
                                 <li>
                                     সময় : <span>  ১ঃ৩০ মিনিট (প্রতিটি ক্লাশ)</span>
@@ -124,7 +123,7 @@
                             </ul>
                             <ul>
                                 <li>
-                                    কোর্স লেভেল : <span> বেসিক </span>
+                                    কোর্স লেভেল : <span> ইন্টারমিডিয়েট </span>
                                 </li>
                                 <li>
                                     ভাষা : <span> বাংলা ও ইংরেজি </span>
@@ -159,7 +158,7 @@
                                                 <button class="accordion-button" type="button" data-bs-toggle="collapse"
                                                         data-bs-target="#collapseOne" aria-expanded="true"
                                                         aria-controls="collapseOne">
-                                                    মডিউলঃ ১ <span> ৬টি ক্লাশ </span>
+                                                    মডিউলঃ ১ <span> ১২টি ক্লাশ </span>
                                                 </button>
                                             </h2>
                                             <div id="collapseOne" class="accordion-collapse collapse show"
@@ -187,7 +186,7 @@
                                                     </div>
                                                     <div class="scc__wrap">
                                                         <div class="scc__info">
-                                                            <h5>Forms for User Input</h5>
+                                                            <h5>Designing Tables for Data Presentation</h5>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -198,7 +197,7 @@
                                                 <button class="accordion-button collapsed" type="button"
                                                         data-bs-toggle="collapse" data-bs-target="#collapseTwo"
                                                         aria-expanded="false" aria-controls="collapseTwo">
-                                                    মডিউলঃ ২ <span>৬ টি ক্লাশ</span>
+                                                    মডিউলঃ ২ <span>১২ টি ক্লাশ</span>
                                                 </button>
                                             </h2>
                                             <div id="collapseTwo" class="accordion-collapse collapse"
@@ -206,22 +205,22 @@
                                                 <div class="accordion-body">
                                                     <div class="scc__wrap">
                                                         <div class="scc__info">
-                                                            <h5>Styling Text</h5>
+                                                            <h5>Introduction to CSS</h5>
                                                         </div>
                                                     </div>
                                                     <div class="scc__wrap">
                                                         <div class="scc__info">
-                                                            <h5>Fonts </h5>
+                                                            <h5>Inline vs. Internal vs. External Stylesheets</h5>
                                                         </div>
                                                     </div>
                                                     <div class="scc__wrap">
                                                         <div class="scc__info">
-                                                            <h5>Colors </h5>
+                                                            <h5>Styling Boxes and Layouts</h5>
                                                         </div>
                                                     </div>
                                                     <div class="scc__wrap">
                                                         <div class="scc__info">
-                                                            <h5>Managing Layouts with CSS Box Model </h5>
+                                                            <h5>Adding Gradients and Images as Backgrounds</h5>
                                                         </div>
                                                     </div>
                                                     <div class="scc__wrap">
@@ -237,7 +236,7 @@
                                                 <button class="accordion-button collapsed" type="button"
                                                         data-bs-toggle="collapse" data-bs-target="#collapseThree"
                                                         aria-expanded="false" aria-controls="collapseThree">
-                                                    মডিউলঃঃ ৩ <span> ৬ টি ক্লাশ</span>
+                                                    মডিউলঃঃ ৩ <span> ১২ টি ক্লাশ</span>
                                                 </button>
                                             </h2>
                                             <div id="collapseThree" class="accordion-collapse collapse"
@@ -245,22 +244,27 @@
                                                 <div class="accordion-body">
                                                     <div class="scc__wrap">
                                                         <div class="scc__info">
-                                                            <h5>Interactive Web Development with JavaScript</h5>
+                                                            <h5>Introduction to JavaScript</h5>
                                                         </div>
                                                     </div>
                                                     <div class="scc__wrap">
                                                         <div class="scc__info">
-                                                            <h5>Variables</h5>
+                                                            <h5>Conditional Loops and Loop Control</h5>
                                                         </div>
                                                     </div>
                                                     <div class="scc__wrap">
                                                         <div class="scc__info">
-                                                            <h5>Data Types and Operators</h5>
+                                                            <h5>Functions in JavaScript</h5>
                                                         </div>
                                                     </div>
                                                     <div class="scc__wrap">
                                                         <div class="scc__info">
-                                                            <h5>Conditional Statements and Loops</h5>
+                                                            <h5>Modifying HTML and CSS Dynamically</h5>
+                                                        </div>
+                                                    </div>
+                                                    <div class="scc__wrap">
+                                                        <div class="scc__info">
+                                                            <h5>Exploring jQuery for DOM Manipulation</h5>
                                                         </div>
                                                     </div>
                                                     <div class="scc__wrap">
@@ -277,7 +281,7 @@
                                                 <button class="accordion-button collapsed" type="button"
                                                         data-bs-toggle="collapse" data-bs-target="#collapseFour"
                                                         aria-expanded="false" aria-controls="collapseFour">
-                                                    মডিউলঃঃ ৪ <span> ৬ টি ক্লাশ</span>
+                                                    মডিউলঃঃ ৪ <span> ১২ টি ক্লাশ</span>
                                                 </button>
                                             </h2>
                                             <div id="collapseFour" class="accordion-collapse collapse"
@@ -290,17 +294,22 @@
                                                     </div>
                                                     <div class="scc__wrap">
                                                         <div class="scc__info">
-                                                            <h5>Conditional Statements</h5>
+                                                            <h5>Conditional Statements in Python</h5>
                                                         </div>
                                                     </div>
                                                     <div class="scc__wrap">
                                                         <div class="scc__info">
-                                                            <h5>Loops</h5>
+                                                            <h5>Using Loops for Iteration in Python</h5>
                                                         </div>
                                                     </div>
                                                     <div class="scc__wrap">
                                                         <div class="scc__info">
-                                                            <h5>(OOP) in Python</h5>
+                                                            <h5>Lists, Dictionaries, and Tuples</h5>
+                                                        </div>
+                                                    </div>
+                                                    <div class="scc__wrap">
+                                                        <div class="scc__info">
+                                                            <h5>Defining Classes and Objects in Python</h5>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -310,33 +319,25 @@
                                 </div>
                             </div>
                         </div>
-
-
                     </div>
                 </div>
 
-
                 <div class="col-xl-4 col-lg-4">
-
                     <div class="course__details__sidebar--2">
                         <div class="event__sidebar__wraper" data-aos="fade-up">
-
-
                             <div class="blogarae__img__2 course__details__img__2" data-aos="fade-up">
                                 <img loading="lazy" src="img/blog/blog_7.png" alt="blog">
                             </div>
-
                             <div class="event__price__wraper">
 
                                 <div class="event__price">
-                                    ৳১,২০০
-                                    <del>/ ৳১,৫০০</del>
+                                    ৳১৬,০০০
+                                    <del>/ ৳২০,০০০</del>
                                 </div>
                                 <div class="event__Price__button">
                                     <a href="#">২০% ছাড়</a>
                                 </div>
                             </div>
-
                             <div class="course__summery__lists">
                                 <ul>
                                     <li>
@@ -348,20 +349,22 @@
 
                                     <li>
                                         <div class="course__summery__item">
-                                            <span class="sb_label"> সময়কাল </span><span class="sb_content"> ৩ মাস </span>
+                                            <span class="sb_label"> সময়কাল </span><span
+                                                    class="sb_content"> ৬ মাস </span>
                                         </div>
                                     </li>
 
                                     <li>
                                         <div class="course__summery__item">
-                                            <span class="sb_label"> ক্লশের সংখ্যা </span><span class="sb_content"> ২৪ টি </span>
+                                            <span class="sb_label"> ক্লশের সংখ্যা </span><span
+                                                    class="sb_content"> ৪৮ টি </span>
                                         </div>
                                     </li>
 
                                     <li>
                                         <div class="course__summery__item">
                                             <span class="sb_label">কোর্স লেভেল</span><span
-                                                    class="sb_content">বেসিক</span>
+                                                    class="sb_content"> ইন্টারমিডিয়েট </span>
                                         </div>
                                     </li>
 
@@ -380,7 +383,8 @@
 
                                     <li>
                                         <div class="course__summery__item">
-                                            <span class="sb_label"> সার্টিফিকেট  </span><span class="sb_content">হ্যাঁ</span>
+                                            <span class="sb_label"> সার্টিফিকেট  </span><span
+                                                    class="sb_content">হ্যাঁ</span>
                                         </div>
                                     </li>
 
@@ -392,10 +396,7 @@
                                             class="icofont-phone"></i> +৮৮০ ১৭২৯ ২৭ ৭৭ ৬৯</a>
                             </div>
                         </div>
-
-
                         <div class="blogsidebar__content__wraper__2" data-aos="fade-up">
-
                             <h4 class="sidebar__title"> অনুসরন করুন </h4>
                             <div class="follow__icon">
                                 <ul>
