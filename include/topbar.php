@@ -5,10 +5,10 @@
                 <div class="topbar__left">
                     <ul>
                         <li>
-                            Call Us: <a href="callto:+8801729277769" style="color: white">+880 1729 277 765</a>
+                            ফোন করুন : <a href="callto:+8801729277769" style="color: white">+৮৮০ ১৭২৯ ২৭ ৭৭ ৬৯</a>
                         </li>
                         <li>
-                            - Mail Us: <a href="mailto:contact@frogbidacademy.com" style="color: white">contact@frogbidacademy.com</a>
+                            - ইমেইল করুন : <a href="mailto:contact@frogbidacademy.com" style="color: white">contact@frogbidacademy.com</a>
                         </li>
                     </ul>
                 </div>

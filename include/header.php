@@ -35,11 +35,11 @@
                                                 <ul class="mega__menu__item">
                                                     <li><a href="Mini-Master">মিনি মাস্টার<span class="mega__menu__label">৪-৬ বছর</span></a>
                                                     </li>
-                                                    <li><a href="#">জুনিয়ার ভিশন<span class="mega__menu__label">৭-১২ বছর</span></a>
+                                                    <li><a href="Junior-Vision">জুনিয়ার ভিশন<span class="mega__menu__label">৭-১২ বছর</span></a>
                                                     </li>
-                                                    <li><a href="#">ক্রিয়েটিভ ইয়ুথ<span class="mega__menu__label">১৩-১৬ বছর</span></a>
+                                                    <li><a href="Creative-Youth">ক্রিয়েটিভ ইয়ুথ<span class="mega__menu__label">১৩-১৬ বছর</span></a>
                                                     </li>
-                                                    <li><a href="#">ষ্টুডিও আর্ট<span class="mega__menu__label">১৬ বছর+</span></a>
+                                                    <li><a href="Studio-Art">ষ্টুডিও আর্ট<span class="mega__menu__label">১৬ বছর+</span></a>
                                                     </li>
 
                                                 </ul>
@@ -69,11 +69,11 @@
                                 </li>
 
                                 <li class="mega__menu position-static">
-                                    <a class="headerarea__has__dropdown" href="index.html">গ্যালারি</a>
+                                    <a class="headerarea__has__dropdown" href="Gallery">গ্যালারি</a>
                                 </li>
 
                                 <li class="mega__menu position-static">
-                                    <a class="headerarea__has__dropdown" href="index.html">যোগাযোগ</a>
+                                    <a class="headerarea__has__dropdown" href="Contact">যোগাযোগ</a>
                                 </li>
                             </ul>
                         </nav>
