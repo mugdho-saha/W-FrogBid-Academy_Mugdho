@@ -24,10 +24,10 @@
                     <div class="topbar__list">
                         <ul>
                             <li>
-                                <a href="#"><i class="icofont-facebook"></i></a>
+                                <a href="https://www.facebook.com/frogbidacademy" target="_blank"><i class="icofont-facebook"></i></a>
                             </li>
                             <li>
-                                <a href="#"><i class="icofont-instagram"></i></a>
+                                <a href="https://www.instagram.com/frogbid_academy/" target="_blank"><i class="icofont-instagram"></i></a>
                             </li>
                             <li>
                                 <a href="#"><i class="icofont-youtube-play"></i></a>

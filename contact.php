@@ -171,12 +171,12 @@
                         </div>
 
 
-                        <form id="contact-form" class="contact-form" action="https://html.themewin.com/edurock-preview/edurock/mail.php" method="post">
+                        <form class="contact-form" action="form_submit.php" method="post">
                             <div class="row">
 
                                 <div class="col-xl-12" data-aos="fade-up">
                                     <div class="contact__input__wraper">
-                                        <input type="text" name="con_name" id="con_name" placeholder="সম্পূর্ন নাম*">
+                                        <input type="text" name="full_name" id="con_name" placeholder="সম্পূর্ন নাম*" required>
                                         <div class="contact__icon">
                                             <i class="icofont-businessman"></i>
                                         </div>
@@ -185,7 +185,7 @@
 
                                 <div class="col-xl-6" data-aos="fade-up">
                                     <div class="contact__input__wraper">
-                                        <input type="text" name="con_email" id="con_email" placeholder="ইমেইল এ্যাডরেস*">
+                                        <input type="text" name="email" id="con_email" placeholder="ইমেইল এ্যাডরেস">
                                         <div class="contact__icon">
                                             <i class="icofont-envelope"></i>
                                         </div>
@@ -194,7 +194,7 @@
 
                                 <div class="col-xl-6" data-aos="fade-up">
                                     <div class="contact__input__wraper">
-                                        <input type="text" name="phone" placeholder="ফোন নাম্বার *">
+                                        <input type="text" name="phone" placeholder="ফোন নাম্বার *" required>
                                         <div class="contact__icon">
                                             <i class="icofont-ui-call"></i>
                                         </div>
@@ -202,7 +202,7 @@
                                 </div>
                                 <div class="col-xl-12" data-aos="fade-up">
                                     <div class="contact__input__wraper">
-                                        <textarea name="con_message" id="con_message" cols="30" rows="10" placeholder="আপনার ম্যাসেজ"></textarea>
+                                        <textarea name="message" id="con_message" cols="30" rows="10" placeholder="আপনার ম্যাসেজ *" required></textarea>
                                         <div class="contact__icon">
                                             <i class="icofont-pen-alt-2"></i>
                                         </div>
@@ -210,11 +210,7 @@
                                 </div>
                                 <div class="col-xl-12" data-aos="fade-up">
                                     <div class="contact__button">
-
-                                        <button type="submit" value="submit" class="default__button" name="submit">সাবমিট করুন</button>
-
-                                        <p class="form-messege"></p>
-
+                                        <button type="submit" class="default__button" name="form_submit">সাবমিট করুন</button>
                                     </div>
                                 </div>
                             </div>

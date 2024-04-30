@@ -328,22 +328,22 @@
                     <div class="registerarea__form__heading">
                         <h4>মতামত প্রদান করুন</h4>
                     </div>
-                    <form action="#">
-                        <input class="register__input" type="text" placeholder="নাম">
+                    <form action="form_submit.php" method="post">
+                        <input class="register__input" type="text" placeholder="নাম *" name="full_name" required>
                         <div class="row">
                             <div class="col-xl-6">
-                                <input class="register__input" type="text" placeholder="ইমেইল ">
+                                <input class="register__input" type="text" placeholder="ইমেইল" name="email">
                             </div>
                             <div class="col-xl-6">
-                                <input class="register__input" type="text" placeholder="ফোন নাম্বার">
+                                <input class="register__input" type="text" placeholder="ফোন নাম্বার *" name="phone" required>
                             </div>
                         </div>
-                        <textarea class="register__input textarea" name="#" id="#" cols="30"
-                                  rows="10"> আপনার মতামত </textarea>
+                        <textarea class="register__input textarea" name="message" id="#" cols="30"
+                                  rows="10" required> আপনার মতামত *</textarea>
                         <div class="registerarea__button">
-                            <a class="default__button" href="#"> সাবমিট করুন
+                            <button class="default__button" name="form_submit" type="submit"> সাবমিট করুন
                                 <i class="icofont-long-arrow-right"></i>
-                            </a>
+                            </button>
                         </div>
                     </form>
                 </div>

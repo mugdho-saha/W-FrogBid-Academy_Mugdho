@@ -56,16 +56,16 @@
                         <div class="footerarea__list">
                             <ul>
                                 <li>
-                                    <a href="#">মিনি মাস্টার</a>
+                                    <a href="Mini-Master">মিনি মাস্টার</a>
                                 </li>
                                 <li>
-                                    <a href="#">জুনিয়ার ভিশন</a>
+                                    <a href="Junior-Vision">জুনিয়ার ভিশন</a>
                                 </li>
                                 <li>
-                                    <a href="#">ক্রিয়েটিভ ইয়ুথ</a>
+                                    <a href="Creative-Youth">ক্রিয়েটিভ ইয়ুথ</a>
                                 </li>
                                 <li>
-                                    <a href="#">ষ্টুডিও আর্ট</a>
+                                    <a href="Studio-Art">ষ্টুডিও আর্ট</a>
                                 </li>
                             </ul>
                         </div>
@@ -81,13 +81,13 @@
                         <div class="footerarea__list">
                             <ul>
                                 <li>
-                                    <a href="#">কোড ষ্টার</a>
+                                    <a href="Code-Star">কোড ষ্টার</a>
                                 </li>
                                 <li>
-                                    <a href="#">কোড ক্র্যাফট</a>
+                                    <a href="Code_Craft">কোড ক্র্যাফট</a>
                                 </li>
                                 <li>
-                                    <a href="#">কোড মাস্টার</a>
+                                    <a href="Code_Master">কোড মাস্টার</a>
                                 </li>
                             </ul>
                         </div>
@@ -114,9 +114,9 @@
                 <div class="col-xl-3 col-lg-3">
                     <div class="footerarea__icon footerarea__icon__2">
                         <ul>
-                            <li><a href="http://facebook.com/"><i class="icofont-facebook"></i></a></li>
-                            <li><a href="http://facebook.com/"><i class="icofont-instagram"></i></a></li>
-                            <li><a href="http://linkedin.com/"><i class="icofont-youtube"></i></a></li>
+                            <li><a href="https://www.facebook.com/frogbidacademy"><i class="icofont-facebook"></i></a></li>
+                            <li><a href="https://www.instagram.com/frogbid_academy/"><i class="icofont-instagram"></i></a></li>
+                            <li><a href="#"><i class="icofont-youtube"></i></a></li>
                         </ul>
                     </div>
                 </div>
