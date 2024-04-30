@@ -107,34 +107,6 @@
                             </p>
                         </div>
 
-                        <h4 class="sidebar__title" data-aos="fade-up">Course Details</h4>
-                        <div class="course__details__wraper" data-aos="fade-up">
-
-                            <ul>
-                                <li>
-                                    ইন্সট্রাক্টর : <span> মনোজিত সাহা</span>
-                                </li>
-                                <li>
-                                    ক্লাশ : <span> ৪৮ টি </span>
-                                </li>
-                                <li>
-                                    সময় : <span>  ১ঃ৩০ মিনিট (প্রতিটি ক্লাশ)</span>
-                                </li>
-                            </ul>
-                            <ul>
-                                <li>
-                                    কোর্স লেভেল : <span> ইন্টারমিডিয়েট </span>
-                                </li>
-                                <li>
-                                    ভাষা : <span> বাংলা ও ইংরেজি </span>
-                                </li>
-                                <li>
-                                    ছাড় : <span> ২০% </span>
-                                </li>
-                            </ul>
-                        </div>
-
-
                         <div class="course__details__tab__wrapper" data-aos="fade-up">
                             <div class="row">
                                 <div class="col-xl-12">
@@ -342,13 +314,6 @@
                                 <ul>
                                     <li>
                                         <div class="course__summery__item">
-                                            <span class="sb_label"> ইন্সট্রাকটর:</span><span class="sb_content"><a
-                                                        href="instructor-details.html"> মনোজিত সাহা </a></span>
-                                        </div>
-                                    </li>
-
-                                    <li>
-                                        <div class="course__summery__item">
                                             <span class="sb_label"> সময়কাল </span><span
                                                     class="sb_content"> ৬ মাস </span>
                                         </div>
@@ -365,13 +330,6 @@
                                         <div class="course__summery__item">
                                             <span class="sb_label">কোর্স লেভেল</span><span
                                                     class="sb_content"> ইন্টারমিডিয়েট </span>
-                                        </div>
-                                    </li>
-
-                                    <li>
-                                        <div class="course__summery__item">
-                                            <span class="sb_label">ভাষা </span><span
-                                                    class="sb_content">বাংলা ও ইংরেজি</span>
                                         </div>
                                     </li>
 

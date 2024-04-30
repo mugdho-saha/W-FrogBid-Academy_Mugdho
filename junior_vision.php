@@ -98,113 +98,93 @@
         <div class="container">
             <div class="row">
                 <div class="col-xl-8 col-lg-8">
-                    <div class="blog__details__content__wraper">
-                        <div class="course__details__tab__wrapper" data-aos="fade-up">
-                            <div class="row">
-                                <div class="col-xl-12">
-                                    <ul class="nav  course__tap__wrap" id="myTab" role="tablist">
+                    <div class="row">
+                        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12" data-aos="fade-up">
+                            <div class="pricingarea__content__wraper">
+                                <div class="pricingarea__heading">
+                                    <div class="pricingarea__plan__type">
+                                        <h6>৬ মাস মেয়াদি কোর্স</h6>
+                                    </div>
 
-                                        <li class="nav-item" role="presentation">
-                                            <button class="single__tab__link" data-bs-toggle="tab" data-bs-target="#projects__two" type="button"><i class="icofont-book-alt"></i> ৬ মাস মেয়াদী  </button>
+                                    <div class="pricingarea__number">
+                                        <h1><span class="price__currency">৳</span>১,২০০<span class="price__durition">/ মাস</span></h1>
+                                    </div>
+                                </div>
+                                <div class="pricingarea__list">
+                                    <ul>
+                                        <li>
+                                            <i class="icofont-check"></i> লাইন ড্রইং
                                         </li>
-                                        <li class="nav-item" role="presentation">
-                                            <button class="single__tab__link active" data-bs-toggle="tab" data-bs-target="#projects__one" type="button"><i class="icofont-paper"></i> ১ বছর মেয়াদী </button>
+                                        <li>
+                                            <i class="icofont-check"></i> শেইপ এর মাধ্যমে ড্রইং
+                                        </li>
+                                        <li>
+                                            <i class="icofont-check"></i> বেসিক ড্রইং
+                                        </li>
+                                        <li>
+                                            <i class="icofont-check"></i> পেন্সিল ড্রইং
+                                        </li>
+                                        <li>
+                                            <i class="icofont-check"></i> স্টিল লাইফ ড্রইং
+                                        </li>
+                                        <li>
+                                            <i class="icofont-check"></i> মনস্তাত্ত্বিক দৃশ্য এবং অন্যান্য বিষয় ভিত্তিক ড্রইং
+                                        </li>
+                                        <li>
+                                            <i class="icofont-check"></i> অরিগামী এন্ড ক্র্যাফট
+                                        </li>
+                                        <li>
+                                            <i class="icofont-close close__button"></i> পেন্সিল স্কেচ এবং জল রং এর বিশেষ কোর্স।
                                         </li>
                                     </ul>
                                 </div>
-                            </div>
-                            <div class="tab-content tab__content__wrapper" id="myTabContent">
-                                <div class="tab-pane fade" id="projects__two" role="tabpanel" aria-labelledby="projects__two">
-                                    <div class="experence__heading">
-                                        <h5> আমাদের কোর্সটিতে যা থাকছে </h5>
-                                    </div>
-                                    <div class="experence__description">
-                                        <div class="scc__wrap">
-                                            <div class="scc__info">
-                                                <h5>লাইন ড্রইং</h5>
-                                            </div>
-                                        </div>
-                                        <div class="scc__wrap">
-                                            <div class="scc__info">
-                                                <h5> শেইপ এর মাধ্যমে ড্রইং</h5>
-                                            </div>
-                                        </div>
-                                        <div class="scc__wrap">
-                                            <div class="scc__info">
-                                                <h5>বেসিক ড্রইং</h5>
-                                            </div>
-                                        </div>
-                                        <div class="scc__wrap">
-                                            <div class="scc__info">
-                                                <h5>পেন্সিল ড্রইং</h5>
-                                            </div>
-                                        </div>
-                                        <div class="scc__wrap">
-                                            <div class="scc__info">
-                                                <h5>স্টিল লাইফ  ড্রইং</h5>
-                                            </div>
-                                        </div>
-                                        <div class="scc__wrap">
-                                            <div class="scc__info">
-                                                <h5>মনস্তাত্ত্বিক দৃশ্য  এবং অন্যান্য বিষয় ভিত্তিক  ড্রইং</h5>
-                                            </div>
-                                        </div>
-                                        <div class="scc__wrap">
-                                            <div class="scc__info">
-                                                <h5>অরিগামী এন্ড ক্র্যাফট</h5>
-                                            </div>
-                                        </div>
-                                    </div>
-
+                                <div class="pricingarea__button">
+                                    <a class="default__button" href="Contact">যোগাযোগ</a>
                                 </div>
-                                <div class="tab-pane fade active show" id="projects__one" role="tabpanel" aria-labelledby="projects__one">
-                                    <div class="experence__heading">
-                                        <h5> আমাদের কোর্সটিতে যা থাকছে </h5>
-                                    </div>
-                                    <div class="experence__description">
-                                        <div class="scc__wrap">
-                                            <div class="scc__info">
-                                                <h5>লাইন ড্রইং</h5>
-                                            </div>
-                                        </div>
-                                        <div class="scc__wrap">
-                                            <div class="scc__info">
-                                                <h5> শেইপ এর মাধ্যমে ড্রইং</h5>
-                                            </div>
-                                        </div>
-                                        <div class="scc__wrap">
-                                            <div class="scc__info">
-                                                <h5>বেসিক ড্রইং</h5>
-                                            </div>
-                                        </div>
-                                        <div class="scc__wrap">
-                                            <div class="scc__info">
-                                                <h5>পেন্সিল ড্রইং</h5>
-                                            </div>
-                                        </div>
-                                        <div class="scc__wrap">
-                                            <div class="scc__info">
-                                                <h5>স্টিল লাইফ  ড্রইং</h5>
-                                            </div>
-                                        </div>
-                                        <div class="scc__wrap">
-                                            <div class="scc__info">
-                                                <h5>মনস্তাত্ত্বিক দৃশ্য  এবং অন্যান্য বিষয় ভিত্তিক  ড্রইং</h5>
-                                            </div>
-                                        </div>
-                                        <div class="scc__wrap">
-                                            <div class="scc__info">
-                                                <h5>অরিগামী এন্ড ক্র্যাফট</h5>
-                                            </div>
-                                        </div>
-                                        <div class="scc__wrap">
-                                            <div class="scc__info">
-                                                <h5>পেন্সিল  স্কেচ এবং জল রং এর বিশেষ  কোর্স।</h5>
-                                            </div>
-                                        </div>
+                            </div>
+                        </div>
 
+                        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12" data-aos="fade-up">
+                            <div class="pricingarea__content__wraper">
+                                <div class="pricingarea__heading">
+                                    <div class="pricingarea__plan__type">
+                                        <h6>১ বছর মেয়াদি কোর্স</h6>
                                     </div>
 
+                                    <div class="pricingarea__number">
+                                        <h1><span class="price__currency">৳</span>১,২০০<span class="price__durition">/ মাস</span></h1>
+                                    </div>
+                                </div>
+                                <div class="pricingarea__list">
+                                    <ul>
+                                        <li>
+                                            <i class="icofont-check"></i> লাইন ড্রইং
+                                        </li>
+                                        <li>
+                                            <i class="icofont-check"></i> শেইপ এর মাধ্যমে ড্রইং
+                                        </li>
+                                        <li>
+                                            <i class="icofont-check"></i> বেসিক ড্রইং
+                                        </li>
+                                        <li>
+                                            <i class="icofont-check"></i> পেন্সিল ড্রইং
+                                        </li>
+                                        <li>
+                                            <i class="icofont-check"></i> স্টিল লাইফ ড্রইং
+                                        </li>
+                                        <li>
+                                            <i class="icofont-check"></i> মনস্তাত্ত্বিক দৃশ্য এবং অন্যান্য বিষয় ভিত্তিক ড্রইং
+                                        </li>
+                                        <li>
+                                            <i class="icofont-check"></i> অরিগামী এন্ড ক্র্যাফট
+                                        </li>
+                                        <li>
+                                            <i class="icofont-check"></i> পেন্সিল স্কেচ এবং জল রং এর বিশেষ কোর্স।
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="pricingarea__button">
+                                    <a class="default__button" href="Contact">যোগাযোগ</a>
                                 </div>
                             </div>
                         </div>
@@ -229,12 +209,6 @@
 
                             <div class="course__summery__lists">
                                 <ul>
-                                    <li>
-                                        <div class="course__summery__item">
-                                            <span class="sb_label"> ইন্সট্রাকটর:</span><span class="sb_content"><a
-                                                    href="instructor-details.html"> জি এম আযম </a></span>
-                                        </div>
-                                    </li>
 
                                     <li>
                                         <div class="course__summery__item">
@@ -250,20 +224,6 @@
 
                                     <li>
                                         <div class="course__summery__item">
-                                            <span class="sb_label">কোর্স লেভেল</span><span
-                                                class="sb_content"> ইন্টারমিডিয়েট </span>
-                                        </div>
-                                    </li>
-
-                                    <li>
-                                        <div class="course__summery__item">
-                                            <span class="sb_label">ভাষা </span><span
-                                                class="sb_content">বাংলা</span>
-                                        </div>
-                                    </li>
-
-                                    <li>
-                                        <div class="course__summery__item">
                                             <span class="sb_label"> সার্টিফিকেট  </span><span class="sb_content">হ্যাঁ</span>
                                         </div>
                                     </li>
@@ -274,29 +234,8 @@
                                 <p>যোগাযোগ করুন</p>
                                 <a class="default__button default__button--3" href="tel:+8801729277769"><i class="icofont-phone"></i> +৮৮০ ১৭২৯ ২৭ ৭৭ ৬৯</a>
                             </div>
-
-
                         </div>
 
-
-                        <div class="blogsidebar__content__wraper__2" data-aos="fade-up">
-
-                            <h4 class="sidebar__title">Follow Us</h4>
-                            <div class="follow__icon">
-                                <ul>
-                                    <li>
-                                        <a href="#"><i class="icofont-facebook"></i></a>
-                                    </li>
-                                    <li>
-                                        <a href="#"><i class="icofont-youtube-play"></i></a>
-                                    </li>
-                                    <li>
-                                        <a href="#"><i class="icofont-instagram"></i></a>
-                                    </li>
-                                </ul>
-                            </div>
-
-                        </div>
                     </div>
                 </div>
             </div>

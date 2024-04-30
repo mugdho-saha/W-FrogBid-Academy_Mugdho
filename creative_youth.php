@@ -98,93 +98,87 @@
         <div class="container">
             <div class="row">
                 <div class="col-xl-8 col-lg-8">
-                    <div class="blog__details__content__wraper">
-                        <div class="course__details__tab__wrapper" data-aos="fade-up">
-                            <div class="row">
-                                <div class="col-xl-12">
-                                    <ul class="nav  course__tap__wrap" id="myTab" role="tablist">
+                    <div class="row">
+                        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12" data-aos="fade-up">
+                            <div class="pricingarea__content__wraper">
+                                <div class="pricingarea__heading">
+                                    <div class="pricingarea__plan__type">
+                                        <h6>৬ মাস মেয়াদি কোর্স</h6>
+                                    </div>
 
-                                        <li class="nav-item" role="presentation">
-                                            <button class="single__tab__link" data-bs-toggle="tab" data-bs-target="#projects__two" type="button"><i class="icofont-book-alt"></i> ৬ মাস মেয়াদী  </button>
+                                    <div class="pricingarea__number">
+                                        <h1><span class="price__currency">৳</span>১,২০০<span class="price__durition">/ মাস</span></h1>
+                                    </div>
+                                </div>
+                                <div class="pricingarea__list">
+                                    <ul>
+                                        <li>
+                                            <i class="icofont-check"></i> আলো ছায়ার মাধ্যমে লাইন ড্রইং
                                         </li>
-                                        <li class="nav-item" role="presentation">
-                                            <button class="single__tab__link active" data-bs-toggle="tab" data-bs-target="#projects__one" type="button"><i class="icofont-paper"></i> ১ বছর মেয়াদী </button>
+                                        <li>
+                                            <i class="icofont-check"></i> পেন্সিল স্কেচ
+                                        </li>
+                                        <li>
+                                            <i class="icofont-check"></i> স্টিল লাইফ
+                                        </li>
+                                        <li>
+                                            <i class="icofont-check"></i> জল রং
+                                        </li>
+                                        <li>
+                                            <i class="icofont-close close__button"></i> আউটডোর ল্যান্ডস্ক্যাপ
+                                        </li>
+                                        <li>
+                                            <i class="icofont-close close__button"></i> এক্রিলিক পেইন্টিং
+                                        </li>
+                                        <li>
+                                            <i class="icofont-close close__button"></i> অয়েল পেইন্টিং ক্যানভাসে
                                         </li>
                                     </ul>
                                 </div>
-                            </div>
-                            <div class="tab-content tab__content__wrapper" id="myTabContent">
-                                <div class="tab-pane fade" id="projects__two" role="tabpanel" aria-labelledby="projects__two">
-                                    <div class="experence__heading">
-                                        <h5> আমাদের কোর্সটিতে যা থাকছে </h5>
-                                    </div>
-                                    <div class="experence__description">
-                                        <div class="scc__wrap">
-                                            <div class="scc__info">
-                                                <h5>আলো ছায়ার মাধ্যমে লাইন ড্রইং</h5>
-                                            </div>
-                                        </div>
-                                        <div class="scc__wrap">
-                                            <div class="scc__info">
-                                                <h5>পেন্সিল  স্কেচ</h5>
-                                            </div>
-                                        </div>
-                                        <div class="scc__wrap">
-                                            <div class="scc__info">
-                                                <h5>স্টিল লাইফ</h5>
-                                            </div>
-                                        </div>
-                                        <div class="scc__wrap">
-                                            <div class="scc__info">
-                                                <h5>জল  রং</h5>
-                                            </div>
-                                        </div>
-                                    </div>
-
+                                <div class="pricingarea__button">
+                                    <a class="default__button" href="Contact">যোগাযোগ</a>
                                 </div>
-                                <div class="tab-pane fade active show" id="projects__one" role="tabpanel" aria-labelledby="projects__one">
-                                    <div class="experence__heading">
-                                        <h5> আমাদের কোর্সটিতে যা থাকছে </h5>
-                                    </div>
-                                    <div class="experence__description">
-                                        <div class="scc__wrap">
-                                            <div class="scc__info">
-                                                <h5>আলো ছায়ার মাধ্যমে লাইন ড্রইং</h5>
-                                            </div>
-                                        </div>
-                                        <div class="scc__wrap">
-                                            <div class="scc__info">
-                                                <h5>পেন্সিল  স্কেচ</h5>
-                                            </div>
-                                        </div>
-                                        <div class="scc__wrap">
-                                            <div class="scc__info">
-                                                <h5>স্টিল লাইফ</h5>
-                                            </div>
-                                        </div>
-                                        <div class="scc__wrap">
-                                            <div class="scc__info">
-                                                <h5>জল  রং</h5>
-                                            </div>
-                                        </div>
-                                        <div class="scc__wrap">
-                                            <div class="scc__info">
-                                                <h5>আউটডোর ল্যান্ডস্ক্যাপ</h5>
-                                            </div>
-                                        </div>
-                                        <div class="scc__wrap">
-                                            <div class="scc__info">
-                                                <h5>এক্রিলিক পেইন্টিং  কাগজে অথবা ক্যানভাসে</h5>
-                                            </div>
-                                        </div>
-                                        <div class="scc__wrap">
-                                            <div class="scc__info">
-                                                <h5>অয়েল  পেইন্টিং  ক্যানভাসে</h5>
-                                            </div>
-                                        </div>
+                            </div>
+                        </div>
 
+                        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12" data-aos="fade-up">
+                            <div class="pricingarea__content__wraper">
+                                <div class="pricingarea__heading">
+                                    <div class="pricingarea__plan__type">
+                                        <h6>১ বছর মেয়াদি কোর্স</h6>
                                     </div>
 
+                                    <div class="pricingarea__number">
+                                        <h1><span class="price__currency">৳</span>১,২০০<span class="price__durition">/ মাস</span></h1>
+                                    </div>
+                                </div>
+                                <div class="pricingarea__list">
+                                    <ul>
+                                        <li>
+                                            <i class="icofont-check"></i> আলো ছায়ার মাধ্যমে লাইন ড্রইং
+                                        </li>
+                                        <li>
+                                            <i class="icofont-check"></i> পেন্সিল স্কেচ
+                                        </li>
+                                        <li>
+                                            <i class="icofont-check"></i> স্টিল লাইফ
+                                        </li>
+                                        <li>
+                                            <i class="icofont-check"></i> জল রং
+                                        </li>
+                                        <li>
+                                            <i class="icofont-check"></i> আউটডোর ল্যান্ডস্ক্যাপ
+                                        </li>
+                                        <li>
+                                            <i class="icofont-check"></i> এক্রিলিক পেইন্টিং
+                                        </li>
+                                        <li>
+                                            <i class="icofont-check"></i> অয়েল পেইন্টিং ক্যানভাসে
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="pricingarea__button">
+                                    <a class="default__button" href="Contact">যোগাযোগ</a>
                                 </div>
                             </div>
                         </div>
@@ -209,12 +203,6 @@
 
                             <div class="course__summery__lists">
                                 <ul>
-                                    <li>
-                                        <div class="course__summery__item">
-                                            <span class="sb_label"> ইন্সট্রাকটর:</span><span class="sb_content"><a
-                                                    href="instructor-details.html"> জি এম আযম </a></span>
-                                        </div>
-                                    </li>
 
                                     <li>
                                         <div class="course__summery__item">
@@ -225,20 +213,6 @@
                                     <li>
                                         <div class="course__summery__item">
                                             <span class="sb_label"> ক্লশের সংখ্যা </span><span class="sb_content"> ৪৮ টি / ৯৬ টি </span>
-                                        </div>
-                                    </li>
-
-                                    <li>
-                                        <div class="course__summery__item">
-                                            <span class="sb_label">কোর্স লেভেল</span><span
-                                                class="sb_content"> ইন্টারমিডিয়েট </span>
-                                        </div>
-                                    </li>
-
-                                    <li>
-                                        <div class="course__summery__item">
-                                            <span class="sb_label">ভাষা </span><span
-                                                class="sb_content">বাংলা</span>
                                         </div>
                                     </li>
 
