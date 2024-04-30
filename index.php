@@ -70,8 +70,8 @@
                                             একাডেমি</p>
                                     </div>
                                     <div class="hreobannerarea__button__2">
-                                        <a class="default__button" href="#">যোগাযোগ</a>
-                                        <a class="default__button hreobannerarea__button__3" href="#">কোর্সের
+                                        <a class="default__button" href="Contact">যোগাযোগ</a>
+                                        <a class="default__button hreobannerarea__button__3" href="Home#art_program">কোর্সের
                                             বিস্তারিত</a>
                                     </div>
                                 </div>
@@ -98,7 +98,7 @@
                                             <span>বিশেষ ছাড়</span>
                                         </div>
                                         <div class="herobannerarea__title__heading__2 herobannerarea__title__heading__3">
-                                            <h2>৩০ মে -এর মধ্যে যে কোনো কোর্সে ভর্তি হলে <span>২০% কোর্স ফী </span>ছাড়
+                                            <h2>১৫ মে -এর মধ্যে যে কোনো কোর্সে ভর্তি হলে <span>২০% কোর্স ফী </span>ছাড়
                                             </h2>
                                         </div>
                                     </div>
@@ -109,8 +109,8 @@
                                             একাডেমি</p>
                                     </div>
                                     <div class="hreobannerarea__button__2">
-                                        <a class="default__button" href="#">যোগাযোগ</a>
-                                        <a class="default__button hreobannerarea__button__3" href="#">কোর্সের
+                                        <a class="default__button" href="Contact">যোগাযোগ</a>
+                                        <a class="default__button hreobannerarea__button__3" href="Home#art_program">কোর্সের
                                             বিস্তারিত</a>
                                     </div>
                                 </div>

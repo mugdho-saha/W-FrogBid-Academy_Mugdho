@@ -194,7 +194,7 @@
                     <div class="course__details__sidebar--2">
                         <div class="event__sidebar__wraper" data-aos="fade-up">
                             <div class="blogarae__img__2 course__details__img__2" data-aos="fade-up">
-                                <img loading="lazy"  src="img/blog/blog_7.png" alt="blog">
+                                <img loading="lazy"  src="images/art_course/2.jpg" alt="blog">
                             </div>
 
                             <div class="event__price__wraper">
@@ -235,6 +235,7 @@
                                 <a class="default__button default__button--3" href="tel:+8801729277769"><i class="icofont-phone"></i> +৮৮০ ১৭২৯ ২৭ ৭৭ ৬৯</a>
                             </div>
                         </div>
+                        <?php include ('include/follow_icon.php');?>
 
                     </div>
                 </div>

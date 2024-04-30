@@ -281,15 +281,15 @@
                                             </div>
                                         </div>
                                         <div class="accordion-item">
-                                            <h2 class="accordion-header" id="heading_three">
+                                            <h2 class="accordion-header" id="heading_Five">
                                                 <button class="accordion-button collapsed" type="button"
-                                                        data-bs-toggle="collapse" data-bs-target="#collapseThree"
+                                                        data-bs-toggle="collapse" data-bs-target="#collapseFive"
                                                         aria-expanded="false" aria-controls="collapseFour">
                                                     মডিউলঃঃ ৪ <span> ২৪ টি ক্লাশ</span>
                                                 </button>
                                             </h2>
-                                            <div id="collapseThree" class="accordion-collapse collapse"
-                                                 aria-labelledby="heading_three" data-bs-parent="#accordionExample">
+                                            <div id="collapseFive" class="accordion-collapse collapse"
+                                                 aria-labelledby="heading_Five" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
                                                     <div class="scc__wrap">
                                                         <div class="scc__info">
@@ -338,7 +338,7 @@
                     <div class="course__details__sidebar--2">
                         <div class="event__sidebar__wraper" data-aos="fade-up">
                             <div class="blogarae__img__2 course__details__img__2" data-aos="fade-up">
-                                <img loading="lazy" src="img/blog/blog_7.png" alt="blog">
+                                <img loading="lazy" src="images/coding_course/coder_3_l.jpg" alt="blog">
                             </div>
                             <div class="event__price__wraper">
 
@@ -391,23 +391,7 @@
                                         class="icofont-phone"></i> +৮৮০ ১৭২৯ ২৭ ৭৭ ৬৯</a>
                             </div>
                         </div>
-                        <div class="blogsidebar__content__wraper__2" data-aos="fade-up">
-                            <h4 class="sidebar__title"> অনুসরন করুন </h4>
-                            <div class="follow__icon">
-                                <ul>
-                                    <li>
-                                        <a href="#"><i class="icofont-facebook"></i></a>
-                                    </li>
-
-                                    <li>
-                                        <a href="#"><i class="icofont-youtube-play"></i></a>
-                                    </li>
-                                    <li>
-                                        <a href="#"><i class="icofont-instagram"></i></a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
+                        <?php include ('include/follow_icon.php');?>
                     </div>
                 </div>
             </div>

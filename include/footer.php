@@ -11,10 +11,10 @@
                 <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12" data-aos="fade-up">
                     <div class="footerarea__newsletter">
                         <div class="footerarea__newsletter__input">
-                            <form action="#">
-                                <input type="text" placeholder="ইমেইল প্রদান করুন">
+                            <form action="form_submit.php" method="post">
+                                <input type="email" placeholder="ইমেইল প্রদান করুন" name="email" required>
                                 <div class="footerarea__newsletter__button">
-                                    <button type="submit" class="subscribe__btn"> সাবস্ক্রাইব করুন</button>
+                                    <button type="submit" name="subscription_data" class="subscribe__btn"> সাবস্ক্রাইব করুন</button>
                                 </div>
                             </form>
                         </div>
@@ -56,16 +56,16 @@
                         <div class="footerarea__list">
                             <ul>
                                 <li>
-                                    <a href="#">মিনি মাস্টার</a>
+                                    <a href="Mini-Master">মিনি মাস্টার</a>
                                 </li>
                                 <li>
-                                    <a href="#">জুনিয়ার ভিশন</a>
+                                    <a href="Junior-Vision">জুনিয়ার ভিশন</a>
                                 </li>
                                 <li>
-                                    <a href="#">ক্রিয়েটিভ ইয়ুথ</a>
+                                    <a href="Creative-Youth">ক্রিয়েটিভ ইয়ুথ</a>
                                 </li>
                                 <li>
-                                    <a href="#">ষ্টুডিও আর্ট</a>
+                                    <a href="Studio-Art">ষ্টুডিও আর্ট</a>
                                 </li>
                             </ul>
                         </div>
@@ -81,13 +81,13 @@
                         <div class="footerarea__list">
                             <ul>
                                 <li>
-                                    <a href="#">কোড ষ্টার</a>
+                                    <a href="Code-Star">কোড ষ্টার</a>
                                 </li>
                                 <li>
-                                    <a href="#">কোড ক্র্যাফট</a>
+                                    <a href="Code_Craft">কোড ক্র্যাফট</a>
                                 </li>
                                 <li>
-                                    <a href="#">কোড মাস্টার</a>
+                                    <a href="Code_Master">কোড মাস্টার</a>
                                 </li>
                             </ul>
                         </div>
@@ -101,7 +101,7 @@
             <div class="row">
                 <div class="col-xl-3 col-lg-3">
                     <div class="copyright__logo">
-                        <a href="https://html.themewin.com/"><img loading="lazy" src="img/logo/logo_1.png"
+                        <a href="Home"><img loading="lazy" src="img/logo/logo_1.png"
                                                                   alt="logo" style="height: 75px; width: auto;"></a>
                     </div>
                 </div>
@@ -114,9 +114,9 @@
                 <div class="col-xl-3 col-lg-3">
                     <div class="footerarea__icon footerarea__icon__2">
                         <ul>
-                            <li><a href="http://facebook.com/"><i class="icofont-facebook"></i></a></li>
-                            <li><a href="http://facebook.com/"><i class="icofont-instagram"></i></a></li>
-                            <li><a href="http://linkedin.com/"><i class="icofont-youtube"></i></a></li>
+                            <li><a href="https://www.facebook.com/frogbidacademy"><i class="icofont-facebook"></i></a></li>
+                            <li><a href="https://www.instagram.com/frogbid_academy/"><i class="icofont-instagram"></i></a></li>
+                            <li><a href="#"><i class="icofont-youtube"></i></a></li>
                         </ul>
                     </div>
                 </div>

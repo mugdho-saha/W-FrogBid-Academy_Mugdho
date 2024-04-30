@@ -169,7 +169,7 @@
                     <div class="course__details__sidebar--2">
                         <div class="event__sidebar__wraper" data-aos="fade-up">
                             <div class="blogarae__img__2 course__details__img__2" data-aos="fade-up">
-                                <img loading="lazy"  src="img/blog/blog_7.png" alt="blog">
+                                <img loading="lazy"  src="images/art_course/4.jpg" alt="blog">
                             </div>
 
                             <div class="event__price__wraper">
@@ -184,26 +184,6 @@
 
                             <div class="course__summery__lists">
                                 <ul>
-                                    <li>
-                                        <div class="course__summery__item">
-                                            <span class="sb_label"> ইন্সট্রাকটর:</span><span class="sb_content"><a
-                                                    href="instructor-details.html"> বিপ্লব কুমার মন্ডল </a></span>
-                                        </div>
-                                    </li>
-
-                                    <li>
-                                        <div class="course__summery__item">
-                                            <span class="sb_label">কোর্স লেভেল</span><span
-                                                class="sb_content"> ইন্টারমিডিয়েট </span>
-                                        </div>
-                                    </li>
-
-                                    <li>
-                                        <div class="course__summery__item">
-                                            <span class="sb_label">ভাষা </span><span
-                                                class="sb_content">বাংলা</span>
-                                        </div>
-                                    </li>
 
                                     <li>
                                         <div class="course__summery__item">
@@ -222,24 +202,7 @@
                         </div>
 
 
-                        <div class="blogsidebar__content__wraper__2" data-aos="fade-up">
-
-                            <h4 class="sidebar__title">Follow Us</h4>
-                            <div class="follow__icon">
-                                <ul>
-                                    <li>
-                                        <a href="#"><i class="icofont-facebook"></i></a>
-                                    </li>
-                                    <li>
-                                        <a href="#"><i class="icofont-youtube-play"></i></a>
-                                    </li>
-                                    <li>
-                                        <a href="#"><i class="icofont-instagram"></i></a>
-                                    </li>
-                                </ul>
-                            </div>
-
-                        </div>
+                        <?php include ('include/follow_icon.php');?>
                     </div>
                 </div>
             </div>
