@@ -51,7 +51,7 @@
                 <div class="swiper-slide herobannerarea__single__slider">
                     <div class="container">
                         <div class="row">
-                            <div class="col-xl-7 col-lg-7 col-md-12 col-sm-12 col-12" data-aos="fade-up">
+                            <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12" data-aos="fade-up">
                                 <div class="herobannerarea__content__wraper">
 
 
@@ -76,7 +76,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-xl-5 col-lg-5 col-md-8 col-sm-12 col-12" data-aos="fade-up">
+                            <div class="col-xl-6 col-lg-6 col-md-8 col-sm-12 col-12" data-aos="fade-up">
                                 <div class="herobanner__video registerarea__video">
                                     <img loading="lazy" src="images/banner/1.png"
                                          alt="Video Banner">
@@ -173,8 +173,8 @@
             <div class="row d-flex align-items-center justify-content-center">
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12" data-aos="fade-up">
                     <div class="single__blog__wraper">
-                        <div class="single__blog__img">
-                            <img loading="lazy" src="images/art.png" alt="blog">
+                        <div class="single__blog__img text-center">
+                            <img loading="lazy" src="images/art.png" alt="blog" style="width: 50%; height: auto">
                         </div>
                         <div class="single__blog__content">
                             <h4><a href="#art_program"> চারুকলা </a></h4>
@@ -187,8 +187,8 @@
 
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12" data-aos="fade-up">
                     <div class="single__blog__wraper">
-                        <div class="single__blog__img">
-                            <img loading="lazy" src="images/coding.png" alt="blog">
+                        <div class="single__blog__img text-center">
+                            <img loading="lazy" src="images/coding.png" alt="blog" style="width: 50%; height: auto">
                         </div>
                         <div class="single__blog__content">
                             <h4><a href="#coding_program"> কোডিং </a></h4>
@@ -250,8 +250,7 @@
                                     </div>
                                 </div>
                                 <div class="service__content service__content__2">
-                                    <h3><a href="course-details.html"> রিভিউ ক্লাশ </a></h3>
-                                    <p>Construction is a general term the art and science to form </p>
+                                    <h3><a href="#"> যুগোপযোগী কারিকুলাম </a></h3>
                                 </div>
                                 <div class="service__small__img">
                                     <svg class="icon__hover__img" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -283,8 +282,7 @@
                                     </div>
                                 </div>
                                 <div class="service__content service__content__2">
-                                    <h3><a href="course-details.html"> অভিজ্ঞ ইন্সট্রাক্টর </a></h3>
-                                    <p>Construction is a general term the art and science to form </p>
+                                    <h3><a href="#"> অভিজ্ঞ ইন্সট্রাক্টর </a></h3>
                                 </div>
                                 <div class="service__small__img">
                                     <svg class="icon__hover__img" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -322,8 +320,7 @@
                                     </div>
                                 </div>
                                 <div class="service__content service__content__2">
-                                    <h3><a href="course-details.html"> যুগোপযোগী কারিকুলাম </a></h3>
-                                    <p>Construction is a general term the art and science to form </p>
+                                    <h3><a href="#">আধুনিক ক্লাশরুম </a></h3>
                                 </div>
                                 <div class="service__small__img">
                                     <svg class="icon__hover__img" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -365,13 +362,7 @@
                                     </div>
                                 </div>
                                 <div class="service__content service__content__2">
-                                    <h3><a href="course-details.html">আধুনিক ক্লাশরুম</a></h3>
-                                    <p>Construction is a general term the art and science to form </p>
-                                </div>
-                                <div class="service__button">
-                                    <a href="#">View Subject
-                                        <i class="icofont-long-arrow-right"></i>
-                                    </a>
+                                    <h3><a href="#"> রিভিউ ক্লাশ</a></h3>
                                 </div>
                                 <div class="service__small__img">
                                     <svg class="icon__hover__img" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -396,7 +387,7 @@
     <?php include ('include/program_full.php');?>
 
     <!-- team__section__start -->
-    <div class="teamarea sp_bottom_100 sp_top_50">
+    <!--<div class="teamarea sp_bottom_100 sp_top_50">
         <div class="container">
             <div class="row">
                 <div class="col-xl-12" data-aos="fade-up">
@@ -498,7 +489,7 @@
 
             </div>
         </div>
-    </div>
+    </div>-->
     <!-- team__section__end-->
 
     <!--gallery section start-->
@@ -585,15 +576,12 @@
                     <div class="single__blog__wraper">
                         <div class="single__blog__img">
                             <img loading="lazy" src="images/blog/blog_1.jpg" alt="blog">
-                            <div class="single__blog__button">
-                                <a class="default__button" href="#">Story</a>
-                            </div>
                         </div>
                         <div class="single__blog__content">
-                            <p>13 january 2024</p>
-                            <h4><a href="#">Facebook design is dedicated to what's new in design </a></h4>
+                            <p> ০৯ এপ্রিল, ২৪ </p>
+                            <h4><a href="https://www.facebook.com/photo/?fbid=122130698576223385&set=a.122110468634223385" target="_blank"> কোডিংএর বর্তমান ও ভবিষ্যত </a></h4>
                             <div class="single__blog__bottom__button">
-                                <a href="#">Read More
+                                <a href="https://www.facebook.com/photo/?fbid=122130698576223385&set=a.122110468634223385" target="_blank">বিস্তারিত
                                     <i class="icofont-long-arrow-right"></i>
                                 </a>
                             </div>
@@ -605,15 +593,12 @@
                     <div class="single__blog__wraper">
                         <div class="single__blog__img">
                             <img loading="lazy" src="images/blog/blog_2.jpg" alt="blog">
-                            <div class="single__blog__button">
-                                <a class="default__button" href="#">Story</a>
-                            </div>
                         </div>
                         <div class="single__blog__content">
-                            <p>13 january 2024</p>
-                            <h4><a href="#">Facebook design is dedicated to what's new in design </a></h4>
+                            <p>১৬ মার্চ, ২৪</p>
+                            <h4><a href="https://www.facebook.com/photo/?fbid=122120162906223385&set=pcb.122120163194223385" target="_blank">বাচ্চারা কেন কোডিং শিখবে?</a></h4>
                             <div class="single__blog__bottom__button">
-                                <a href="#">Read More
+                                <a href="https://www.facebook.com/photo/?fbid=122120162906223385&set=pcb.122120163194223385" target="_blank"> বিস্তারিত
                                     <i class="icofont-long-arrow-right"></i>
                                 </a>
                             </div>
@@ -625,15 +610,12 @@
                     <div class="single__blog__wraper">
                         <div class="single__blog__img">
                             <img loading="lazy" src="images/blog/blog_3.jpg" alt="blog">
-                            <div class="single__blog__button">
-                                <a class="default__button" href="#">Story</a>
-                            </div>
                         </div>
                         <div class="single__blog__content">
-                            <p>13 january 2024</p>
-                            <h4><a href="#">Facebook design is dedicated to what's new in design </a></h4>
+                            <p>১৭ মার্চ, ২৪</p>
+                            <h4><a href="https://www.facebook.com/photo/?fbid=122120590316223385&set=pcb.122120590616223385" target="_blank">বাচ্চারা কেন আর্ট শিখবে?</a></h4>
                             <div class="single__blog__bottom__button">
-                                <a href="#">Read More
+                                <a href="https://www.facebook.com/photo/?fbid=122120590316223385&set=pcb.122120590616223385" target="_blank">বিস্তারিত
                                     <i class="icofont-long-arrow-right"></i>
                                 </a>
                             </div>

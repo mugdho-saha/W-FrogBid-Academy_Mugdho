@@ -6,7 +6,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title> জুনিয়ার ভিশন : ৭-১২ বছর - ফ্রগবিড একাডেমি</title>
+    <title> জুনিয়র ভিশন : ৭-১২ বছর - ফ্রগবিড একাডেমি</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <?php include ('include/css.php');?>
@@ -53,14 +53,14 @@
                         <div class="breadcrumb__inner text-start">
                             <ul>
                                 <li><a href="index-2.html"> হোম </a></li>
-                                <li> জুনিয়ার ভিশন </li>
+                                <li> জুনিয়র ভিশন </li>
                             </ul>
                         </div>
                     </div>
 
                     <div class="course__details__top--2">
                         <div class="course__details__heading" data-aos="fade-up">
-                            <h3> জুনিয়ার ভিশন (৭ থেকে ১২ বছর বয়সীদের জন্য )</h3>
+                            <h3> জুনিয়র ভিশন (৭ থেকে ১২ বছর বয়সীদের জন্য )</h3>
                         </div>
                         <div class="course__details__price" data-aos="fade-up">
                             <ul>

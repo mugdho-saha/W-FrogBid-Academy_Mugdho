@@ -25,7 +25,7 @@
 
         <div class="footerarea__wrapper footerarea__wrapper__2">
             <div class="row">
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12" data-aos="fade-up">
+                <div class="col-xl-6 col-lg-4 col-md-6 col-sm-12" data-aos="fade-up">
                     <div class="footerarea__inner footerarea__about__us">
                         <div class="footerarea__heading">
                             <h3> আমাদের সম্পর্কে </h3>
@@ -48,7 +48,7 @@
 
                     </div>
                 </div>
-                <div class="col-xl-2 col-lg-2  col-md-6 col-sm-6" data-aos="fade-up">
+                <div class="col-xl-3 col-lg-2  col-md-6 col-sm-6" data-aos="fade-up">
                     <div class="footerarea__inner">
                         <div class="footerarea__heading">
                             <h3> আর্ট কোর্সসমূহঃ </h3>
@@ -93,53 +93,6 @@
                         </div>
 
 
-                    </div>
-                </div>
-
-                <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12" data-aos="fade-up">
-                    <div class="footerarea__right__wraper footerarea__inner">
-                        <div class="footerarea__heading">
-                            <h3>Recent Post</h3>
-                        </div>
-                        <div class="footerarea__right__list">
-                            <ul>
-                                <li>
-                                    <a href="#">
-                                        <div class="footerarea__right__img">
-                                            <img loading="lazy" src="img/footer/footer__1.png" alt="footerphoto">
-                                        </div>
-                                        <div class="footerarea__right__content">
-                                            <span>02 Apr 2024 </span>
-                                            <h6>Best Your Business</h6>
-                                        </div>
-                                    </a>
-                                </li>
-
-                                <li>
-                                    <a href="#">
-                                        <div class="footerarea__right__img">
-                                            <img loading="lazy" src="img/footer/footer__2.png" alt="footerphoto">
-                                        </div>
-                                        <div class="footerarea__right__content">
-                                            <span>02 Apr 2024 </span>
-                                            <h6>Keep Your Business</h6>
-                                        </div>
-                                    </a>
-                                </li>
-
-                                <li>
-                                    <a href="#">
-                                        <div class="footerarea__right__img">
-                                            <img loading="lazy" src="img/footer/footer__3.png" alt="footerphoto">
-                                        </div>
-                                        <div class="footerarea__right__content">
-                                            <span>02 Apr 2024 </span>
-                                            <h6>Nice Your Business</h6>
-                                        </div>
-                                    </a>
-                                </li>
-                            </ul>
-                        </div>
                     </div>
                 </div>
             </div>

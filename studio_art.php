@@ -1,8 +1,6 @@
 <!doctype html>
 <html class="no-js" lang="zxx">
 
-
-<!-- Mirrored from html.themewin.com/edurock-preview/edurock/course-details-2.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 25 Apr 2024 06:17:09 GMT -->
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -117,12 +115,12 @@
                                     <div class="experence__description">
                                         <div class="scc__wrap">
                                             <div class="scc__info">
-                                                <h5>ব্যাসিক টু  অ্যাডভান্স ড্রয়িং</h5>
+                                                <h5>বেসিক  টু  অ্যাডভান্স ড্রয়িং</h5>
                                             </div>
                                         </div>
                                         <div class="scc__wrap">
                                             <div class="scc__info">
-                                                <h5>ব্যাসিক ডিজাইন থিউরি</h5>
+                                                <h5>বেসিক  ডিজাইন থিওরি </h5>
                                             </div>
                                         </div>
                                         <div class="scc__wrap">
@@ -142,7 +140,7 @@
                                         </div>
                                         <div class="scc__wrap">
                                             <div class="scc__info">
-                                                <h5>ষ্টীল লাইফ- স্কেচ,ওয়াটার কালার, পেইন্টিং</h5>
+                                                <h5>স্টিল  লাইফ- স্কেচ,ওয়াটার কালার, পেইন্টিং</h5>
                                             </div>
                                         </div>
                                         <div class="scc__wrap">
@@ -157,7 +155,7 @@
                                         </div>
                                         <div class="scc__wrap">
                                             <div class="scc__info">
-                                                <h5>কালার থিউরি এন্ড কম্পোজিশন অয়েল  পেইন্টিং</h5>
+                                                <h5>কালার থিওরি  এন্ড কম্পোজিশন অয়েল  পেইন্টিং</h5>
                                             </div>
                                         </div>
                                     </div>
@@ -254,9 +252,6 @@
 
 
 </main>
-
-
-
 
 
 <!-- JS here -->

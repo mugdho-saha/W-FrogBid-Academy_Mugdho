@@ -6,7 +6,7 @@
                     <div class="headerarea__left">
                         <div class="headerarea__left__logo">
 
-                            <a href="index.html"><img loading="lazy" src="img/logo/logo_1.png" alt="logo"
+                            <a href="Home"><img loading="lazy" src="img/logo/logo_1.png" alt="logo"
                                                       style="height: 75px; width: auto;"></a>
                         </div>
 
@@ -35,7 +35,7 @@
                                                 <ul class="mega__menu__item">
                                                     <li><a href="Mini-Master">মিনি মাস্টার<span class="mega__menu__label">৪-৬ বছর</span></a>
                                                     </li>
-                                                    <li><a href="Junior-Vision">জুনিয়ার ভিশন<span class="mega__menu__label">৭-১২ বছর</span></a>
+                                                    <li><a href="Junior-Vision">জুনিয়র ভিশন<span class="mega__menu__label">৭-১২ বছর</span></a>
                                                     </li>
                                                     <li><a href="Creative-Youth">ক্রিয়েটিভ ইয়ুথ<span class="mega__menu__label">১৩-১৬ বছর</span></a>
                                                     </li>

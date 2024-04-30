@@ -458,7 +458,7 @@ li {
   font-weight: 600;
   font-size: 14px;
   line-height: 1.5;
-  color: var(--primaryColor);
+  color: #5f2ded;
   border-radius: var(--borderRadius2);
   background: var(--whitegrey3);
   display: inline-block;
@@ -4430,6 +4430,7 @@ Popular Area
   color: var(--blackColor);
   font-family: var(--headingFont);
   transition: var(--transition);
+  line-height: 1.2;
 }
 
 .populerarea__2 {
@@ -7381,7 +7382,7 @@ Blog
 }
 .single__blog__content h4 a {
   font-weight: 700;
-  font-size: 24px;
+  font-size: 22px;
   line-height: 32px;
   color: var(--blackColor2);
 }

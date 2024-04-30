@@ -18,13 +18,13 @@
                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12 grid-item column__custom__class swiper-slide">
                         <div class="gridarea__wraper">
                             <div class="gridarea__img">
-                                <a href="course-details.html"><img loading="lazy" src="images/art_course/kid_1.jpg"
+                                <a href="Mini-Master"><img loading="lazy" src="images/art_course/kid_1.jpg"
                                                                    alt="grid"></a>
                                 <div class="gridarea__small__button gridarea__small__button__1">
 
                                 </div>
                                 <div class="gridarea__small__icon">
-                                    <a href="#"><i class="icofont-heart-alt"></i></a>
+                                    <a href="Mini-Master"><i class="icofont-heart-alt"></i></a>
                                 </div>
 
                             </div>
@@ -40,7 +40,7 @@
                                     </ul>
                                 </div>
                                 <div class="gridarea__heading">
-                                    <h3><a href="course-details.html">মিনি মাস্টার </a></h3>
+                                    <h3><a href="Mini-Master">মিনি মাস্টার </a></h3>
                                     <span class="mega__menu__label">৪-৬ বছর বয়সীদের জন্য</span>
                                 </div>
                                 <div class="gridarea__price">
@@ -49,13 +49,13 @@
                                     <span> প্রতি মাসে </span>
                                 </div>
                                 <div class="gridarea__bottom">
-                                    <a href="instructor-details.html">
+                                    <a href="Mini-Master">
                                         <div class="gridarea__small__img">
                                             <div class="gridarea__small__content flex align-items-center justify-content-center">
-                                                <h6> প্রতি ক্লাশে সর্বচ্চ ১২ জন।</h6>
+                                                <h6> ক্লাশে সর্বচ্চ ১২-১৪ জন।</h6>
                                                 <div class="row text-center">
                                                     <div class="col-12">
-                                                        <a class="default__button_new mt-3" href="#">বিস্তারিত</a>
+                                                        <a class="default__button_new mt-3" href="Mini-Master">বিস্তারিত</a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -68,13 +68,13 @@
                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12 grid-item column__custom__class swiper-slide">
                         <div class="gridarea__wraper">
                             <div class="gridarea__img">
-                                <a href="course-details.html"><img loading="lazy" src="images/art_course/kid_2.jpg"
+                                <a href="Junior-Vision"><img loading="lazy" src="images/art_course/kid_2.jpg"
                                                                    alt="grid"></a>
                                 <div class="gridarea__small__button gridarea__small__button__1">
 
                                 </div>
                                 <div class="gridarea__small__icon">
-                                    <a href="#"><i class="icofont-heart-alt"></i></a>
+                                    <a href="Junior-Vision"><i class="icofont-heart-alt"></i></a>
                                 </div>
 
                             </div>
@@ -90,7 +90,7 @@
                                     </ul>
                                 </div>
                                 <div class="gridarea__heading">
-                                    <h3><a href="course-details.html">জুনিয়ার ভিশন </a></h3>
+                                    <h3><a href="Junior-Vision">জুনিয়র ভিশন </a></h3>
                                     <span class="mega__menu__label">৭-১২ বছর বয়সীদের জন্য</span>
                                 </div>
                                 <div class="gridarea__price">
@@ -100,13 +100,13 @@
 
                                 </div>
                                 <div class="gridarea__bottom">
-                                    <a href="instructor-details.html">
+                                    <a href="Junior-Vision">
                                         <div class="gridarea__small__img">
                                             <div class="gridarea__small__content flex align-items-center justify-content-center">
                                                 <h6> প্রতি ক্লাশে সর্বচ্চ ১২ জন।</h6>
                                                 <div class="row text-center">
                                                     <div class="col-12">
-                                                        <a class="default__button_new mt-3" href="#">বিস্তারিত</a>
+                                                        <a class="default__button_new mt-3" href="Junior-Vision">বিস্তারিত</a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -119,13 +119,13 @@
                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12 grid-item column__custom__class swiper-slide">
                         <div class="gridarea__wraper">
                             <div class="gridarea__img">
-                                <a href="course-details.html"><img loading="lazy" src="images/art_course/kid_3.jpg"
+                                <a href="Creative-Youth"><img loading="lazy" src="images/art_course/kid_3.jpg"
                                                                    alt="grid"></a>
                                 <div class="gridarea__small__button gridarea__small__button__1">
 
                                 </div>
                                 <div class="gridarea__small__icon">
-                                    <a href="#"><i class="icofont-heart-alt"></i></a>
+                                    <a href="Creative-Youth"><i class="icofont-heart-alt"></i></a>
                                 </div>
 
                             </div>
@@ -141,7 +141,7 @@
                                     </ul>
                                 </div>
                                 <div class="gridarea__heading">
-                                    <h3><a href="course-details.html">ক্রিয়েটিভ ইয়ুথ </a></h3>
+                                    <h3><a href="Creative-Youth">ক্রিয়েটিভ ইয়ুথ </a></h3>
                                     <span class="mega__menu__label">১৩-১৬ বছর বয়সীদের জন্য</span>
                                 </div>
                                 <div class="gridarea__price">
@@ -151,13 +151,13 @@
 
                                 </div>
                                 <div class="gridarea__bottom">
-                                    <a href="instructor-details.html">
+                                    <a href="Creative-Youth">
                                         <div class="gridarea__small__img">
                                             <div class="gridarea__small__content flex align-items-center justify-content-center">
                                                 <h6> প্রতি ক্লাশে সর্বচ্চ ১২ জন।</h6>
                                                 <div class="row text-center">
                                                     <div class="col-12">
-                                                        <a class="default__button_new mt-3" href="#">বিস্তারিত</a>
+                                                        <a class="default__button_new mt-3" href="Creative-Youth">বিস্তারিত</a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -170,13 +170,13 @@
                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12 grid-item column__custom__class swiper-slide">
                         <div class="gridarea__wraper">
                             <div class="gridarea__img">
-                                <a href="course-details.html"><img loading="lazy" src="images/art_course/kid_4.jpg"
+                                <a href="Studio-Art"><img loading="lazy" src="images/art_course/kid_4.jpg"
                                                                    alt="grid"></a>
                                 <div class="gridarea__small__button gridarea__small__button__1">
 
                                 </div>
                                 <div class="gridarea__small__icon">
-                                    <a href="#"><i class="icofont-heart-alt"></i></a>
+                                    <a href="Studio-Art"><i class="icofont-heart-alt"></i></a>
                                 </div>
 
                             </div>
@@ -192,7 +192,7 @@
                                     </ul>
                                 </div>
                                 <div class="gridarea__heading">
-                                    <h3><a href="course-details.html">ষ্টুডিও আর্ট</a></h3>
+                                    <h3><a href="Studio-Art">ষ্টুডিও আর্ট</a></h3>
                                     <span class="mega__menu__label">১৬+ বছর বয়সীদের জন্য</span>
                                 </div>
                                 <div class="gridarea__price">
@@ -202,13 +202,13 @@
 
                                 </div>
                                 <div class="gridarea__bottom">
-                                    <a href="instructor-details.html">
+                                    <a href="Studio-Art">
                                         <div class="gridarea__small__img">
                                             <div class="gridarea__small__content flex align-items-center justify-content-center">
                                                 <h6> প্রতি ক্লাশে সর্বচ্চ ১২ জন।</h6>
                                                 <div class="row text-center">
                                                     <div class="col-12">
-                                                        <a class="default__button_new mt-3" href="#">বিস্তারিত</a>
+                                                        <a class="default__button_new mt-3" href="Studio-Art">বিস্তারিত</a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -338,7 +338,6 @@
                                 <input class="register__input" type="text" placeholder="ফোন নাম্বার">
                             </div>
                         </div>
-                        <input class="register__input" type="text" placeholder=" ঠিকানা ">
                         <textarea class="register__input textarea" name="#" id="#" cols="30"
                                   rows="10"> আপনার মতামত </textarea>
                         <div class="registerarea__button">
@@ -380,12 +379,12 @@
                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12 grid-item column__custom__class swiper-slide">
                         <div class="gridarea__wraper">
                             <div class="gridarea__img">
-                                <a href="course-details.html"><img loading="lazy" src="images/coding_course/coder_1.jpg"
+                                <a href="Code-Star"><img loading="lazy" src="images/coding_course/coder_1.jpg"
                                                                    alt="grid"></a>
                                 <div class="gridarea__small__button">
                                 </div>
                                 <div class="gridarea__small__icon">
-                                    <a href="#"><i class="icofont-heart-alt"></i></a>
+                                    <a href="Code-Star"><i class="icofont-heart-alt"></i></a>
                                 </div>
 
                             </div>
@@ -401,7 +400,7 @@
                                     </ul>
                                 </div>
                                 <div class="gridarea__heading">
-                                    <h3><a href="course-details.html">কোড ষ্টার </a></h3> <span
+                                    <h3><a href="Code-Star">কোড ষ্টার </a></h3> <span
                                         class="mega__menu__label">সময়কালঃ ৩ মাস।</span>
                                 </div>
                                 <div class="gridarea__price">
@@ -411,13 +410,13 @@
 
                                 </div>
                                 <div class="gridarea__bottom">
-                                    <a href="instructor-details.html">
+                                    <a href="Code-Star">
                                         <div class="gridarea__small__img">
                                             <div class="gridarea__small__content flex align-items-center justify-content-center">
                                                 <h6> প্রতি ক্লাশে সর্বচ্চ ১২ জন।</h6>
                                                 <div class="row text-center">
                                                     <div class="col-12">
-                                                        <a class="default__button_new mt-3" href="#">বিস্তারিত</a>
+                                                        <a class="default__button_new mt-3" href="Code-Star">বিস্তারিত</a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -430,12 +429,12 @@
                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12 grid-item column__custom__class swiper-slide">
                         <div class="gridarea__wraper">
                             <div class="gridarea__img">
-                                <a href="course-details.html"><img loading="lazy" src="images/coding_course/coder_2.jpg"
+                                <a href="Code_Craft"><img loading="lazy" src="images/coding_course/coder_2.jpg"
                                                                    alt="grid"></a>
                                 <div class="gridarea__small__button">
                                 </div>
                                 <div class="gridarea__small__icon">
-                                    <a href="#"><i class="icofont-heart-alt"></i></a>
+                                    <a href="Code_Craft"><i class="icofont-heart-alt"></i></a>
                                 </div>
 
                             </div>
@@ -451,7 +450,7 @@
                                     </ul>
                                 </div>
                                 <div class="gridarea__heading">
-                                    <h3><a href="course-details.html">কোড ক্র্যাফট </a></h3> <span
+                                    <h3><a href="Code_Craft">কোড ক্র্যাফট </a></h3> <span
                                         class="mega__menu__label">সময়কালঃ ৬ মাস।</span>
                                 </div>
                                 <div class="gridarea__price">
@@ -461,13 +460,13 @@
 
                                 </div>
                                 <div class="gridarea__bottom">
-                                    <a href="instructor-details.html">
+                                    <a href="Code_Craft">
                                         <div class="gridarea__small__img">
                                             <div class="gridarea__small__content flex align-items-center justify-content-center">
                                                 <h6> প্রতি ক্লাশে সর্বচ্চ ১২ জন।</h6>
                                                 <div class="row text-center">
                                                     <div class="col-12">
-                                                        <a class="default__button_new mt-3" href="#">বিস্তারিত</a>
+                                                        <a class="default__button_new mt-3" href="Code_Craft">বিস্তারিত</a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -480,12 +479,12 @@
                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12 grid-item column__custom__class swiper-slide">
                         <div class="gridarea__wraper">
                             <div class="gridarea__img">
-                                <a href="course-details.html"><img loading="lazy" src="images/coding_course/coder_3.jpg"
+                                <a href="Code_Master"><img loading="lazy" src="images/coding_course/coder_3.jpg"
                                                                    alt="grid"></a>
                                 <div class="gridarea__small__button">
                                 </div>
                                 <div class="gridarea__small__icon">
-                                    <a href="#"><i class="icofont-heart-alt"></i></a>
+                                    <a href="Code_Master"><i class="icofont-heart-alt"></i></a>
                                 </div>
 
                             </div>
@@ -501,7 +500,7 @@
                                     </ul>
                                 </div>
                                 <div class="gridarea__heading">
-                                    <h3><a href="course-details.html">কোড মাস্টার </a></h3> <span
+                                    <h3><a href="Code_Master">কোড মাস্টার </a></h3> <span
                                         class="mega__menu__label"> কোর্সের সময়কালঃ ১ বছর।</span>
                                 </div>
                                 <div class="gridarea__price">
@@ -511,13 +510,13 @@
 
                                 </div>
                                 <div class="gridarea__bottom">
-                                    <a href="instructor-details.html">
+                                    <a href="Code_Master">
                                         <div class="gridarea__small__img">
                                             <div class="gridarea__small__content flex align-items-center justify-content-center">
                                                 <h6> প্রতি ক্লাশে সর্বচ্চ ১২ জন।</h6>
                                                 <div class="row text-center">
                                                     <div class="col-12">
-                                                        <a class="default__button_new mt-3" href="#">বিস্তারিত</a>
+                                                        <a class="default__button_new mt-3" href="Code_Master">বিস্তারিত</a>
                                                     </div>
                                                 </div>
                                             </div>
