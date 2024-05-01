@@ -205,7 +205,7 @@
     <!-- early__programs End -->
 
     <!-- populer__section__start -->
-    <div class="populerarea__2 sp_top_80 sp_bottom_50" style="background:url(img/about/about_bg_1.jpg)">
+    <div class="populerarea__2 sp_top_80 sp_bottom_50" style="background:url(images/body_banner.png); background-size: cover">
         <div class="container">
             <div class="row">
                 <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 about__wrap__content" data-aos="fade-up">

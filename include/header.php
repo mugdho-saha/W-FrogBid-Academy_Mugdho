@@ -25,13 +25,13 @@
                                 </li>
 
                                 <li class="mega__menu position-static">
-                                    <a class="headerarea__has__dropdown" href="course.html">আমাদের কোর্সসমূহ<i
+                                    <a class="headerarea__has__dropdown" href="#">আমাদের কোর্সসমূহ<i
                                             class="icofont-rounded-down"></i> </a>
                                     <div class="headerarea__submenu mega__menu__wrapper">
 
                                         <div class="row">
                                             <div class="col-5 mega__menu__single__wrap">
-                                                <h4 class="mega__menu__title"><a href="#">আর্ট কোর্সসমূহঃ</a></h4>
+                                                <h4 class="mega__menu__title"><a href="Home#art_program">আর্ট কোর্সসমূহঃ</a></h4>
                                                 <ul class="mega__menu__item">
                                                     <li><a href="Mini-Master">মিনি মাস্টার<span class="mega__menu__label">৪-৬ বছর</span></a>
                                                     </li>
@@ -45,8 +45,8 @@
                                                 </ul>
                                             </div>
                                             <div class="col-4 mega__menu__single__wrap">
-                                                <h4 class="mega__menu__title"><a href="#">কোডিং কোর্সসমূহঃ <span
-                                                            class="mega__menu__label">৬ষ্ঠ থেকে ১২দশ শ্রেনী</span></a>
+                                                <h4 class="mega__menu__title"><a href="Home#coding_program">কোডিং কোর্সসমূহঃ <span
+                                                            class="mega__menu__label"> ১২ থেকে ২০ বছর বয়সিীদের জন্য</span></a>
                                                 </h4>
                                                 <ul class="mega__menu__item">
                                                     <li><a href="Code-Star">কোড ষ্টার<span class="mega__menu__label">কোর্সের সময়কালঃ ৩ মাস</span></a>
@@ -59,7 +59,7 @@
                                             </div>
                                             <div class="col-3 mega__menu__single__wrap">
                                                 <div class="mega__menu__img">
-                                                    <a href="#"><img loading="lazy" src="img/mega/mega_menu_1.png"
+                                                    <a href="#"><img loading="lazy" src="images/menu_banner.png"
                                                                      alt="Mega Menu"></a>
                                                 </div>
                                             </div>
@@ -82,10 +82,10 @@
                 <div class="col-xl-3 col-lg-3 col-md-6">
                     <div class="headerarea__right">
                         <div class="headerarea__login">
-                            <a href="login.html"><i class="icofont-user-alt-5"></i></a>
+                            <a href="admin/Login"><i class="icofont-user-alt-5"></i></a>
                         </div>
                         <div class="headerarea__button">
-                            <a href="#">যোগাযোগ</a>
+                            <a href="Contact">যোগাযোগ</a>
                         </div>
                     </div>
                 </div>
