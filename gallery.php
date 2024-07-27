@@ -86,50 +86,50 @@
                 <div class="photo__gallery__img">
 
                     <div class="single__gallery__img">
-                        <img loading="lazy" src="img/gallery/kids_1.jpg" alt="photo">
+                        <img loading="lazy" data-src="img/gallery/kids_1.jpg" src="img/gallery/01.jpg" alt="photo" class="lazy">
                         <div class="gallery__icon">
                             <a class="popup__img" href="img/gallery/kids_1.jpg"> <i class="icofont-eye-alt"></i></a>
                         </div>
                     </div>
                     <div class="single__gallery__img">
-                        <img loading="lazy" src="img/gallery/kids_2.jpg" alt="photo">
+                        <img loading="lazy" data-src="img/gallery/kids_2.jpg" src="img/gallery/02.jpg" alt="photo" class="lazy">
                         <div class="gallery__icon">
                             <a class="popup__img" href="img/gallery/kids_2.jpg"> <i class="icofont-eye-alt"></i></a>
                         </div>
                     </div>
                     <div class="single__gallery__img">
-                        <img loading="lazy" src="img/gallery/kids_3.jpg" alt="photo">
+                        <img loading="lazy" data-src="img/gallery/kids_3.jpg" src="img/gallery/03.jpg" alt="photo" class="lazy">
                         <div class="gallery__icon">
                             <a class="popup__img" href="img/gallery/kids_3.jpg"> <i class="icofont-eye-alt"></i></a>
                         </div>
                     </div>
                     <div class="single__gallery__img">
-                        <img loading="lazy" src="img/gallery/kids_4.jpg" alt="photo">
+                        <img loading="lazy" data-src="img/gallery/kids_4.jpg" src="img/gallery/04.jpg" alt="photo" class="lazy">
                         <div class="gallery__icon">
                             <a class="popup__img" href="img/gallery/kids_4.jpg"> <i class="icofont-eye-alt"></i></a>
                         </div>
                     </div>
                     <div class="single__gallery__img">
-                        <img loading="lazy" src="img/gallery/kids_5.jpg" alt="photo">
+                        <img loading="lazy" data-src="img/gallery/kids_5.jpg" src="img/gallery/05.jpg" alt="photo" class="lazy">
                         <div class="gallery__icon">
                             <a class="popup__img" href="img/gallery/kids_5.jpg"> <i class="icofont-eye-alt"></i></a>
                         </div>
                     </div>
                     <div class="single__gallery__img">
-                        <img loading="lazy" src="img/gallery/kids_6.jpg" alt="photo">
+                        <img loading="lazy" data-src="img/gallery/kids_6.jpg" src="img/gallery/06.jpg" alt="photo" class="lazy">
                         <div class="gallery__icon">
                             <a class="popup__img" href="img/gallery/kids_6.jpg"> <i class="icofont-eye-alt"></i></a>
                         </div>
                     </div>
 
                     <div class="single__gallery__img">
-                        <img loading="lazy" src="img/gallery/kids_7.jpg" alt="photo">
+                        <img loading="lazy" data-src="img/gallery/kids_7.jpg" src="img/gallery/07.jpg" alt="photo" class="lazy">
                         <div class="gallery__icon">
                             <a class="popup__img" href="img/gallery/kids_7.jpg"> <i class="icofont-eye-alt"></i></a>
                         </div>
                     </div>
                     <div class="single__gallery__img">
-                        <img loading="lazy" src="img/gallery/kids_8.jpg" alt="photo">
+                        <img loading="lazy" data-src="img/gallery/kids_8.jpg" src="img/gallery/08.jpg" alt="photo" class="lazy">
                         <div class="gallery__icon">
                             <a class="popup__img" href="img/gallery/kids_8.jpg"> <i class="icofont-eye-alt"></i></a>
                         </div>
@@ -152,6 +152,37 @@
 
 <!-- JS here -->
 <?php include('include/js.php'); ?>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        const lazyImages = document.querySelectorAll('img.lazy');
+
+        if ("IntersectionObserver" in window) {
+            const lazyImageObserver = new IntersectionObserver(function(entries, observer) {
+                entries.forEach(function(entry) {
+                    if (entry.isIntersecting) {
+                        const lazyImage = entry.target;
+                        lazyImage.src = lazyImage.dataset.src;
+                        lazyImage.classList.remove("lazy");
+                        lazyImage.classList.add("lazy-loaded");
+                        lazyImageObserver.unobserve(lazyImage);
+                    }
+                });
+            });
+
+            lazyImages.forEach(function(lazyImage) {
+                lazyImageObserver.observe(lazyImage);
+            });
+        } else {
+            // Fallback for browsers without IntersectionObserver support
+            lazyImages.forEach(function(lazyImage) {
+                lazyImage.src = lazyImage.dataset.src;
+                lazyImage.classList.remove("lazy");
+                lazyImage.classList.add("lazy-loaded");
+            });
+        }
+    });
+</script>
 
 
 </body>

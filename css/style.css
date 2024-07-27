@@ -7809,6 +7809,19 @@ Blog
 .blogsidebar__content__wraper__2 .photo__gallery__img .single__gallery__img img {
   width: 100%;
 }
+.single__gallery__img img {
+  width: 100%;
+  height: auto;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.single__gallery__img img.lazy {
+  opacity: 0;
+}
+
+.single__gallery__img img.lazy-loaded {
+  opacity: 1;
+}
 .blogsidebar__content__wraper__2 .photo__gallery__img .single__gallery__img .gallery__icon {
   position: absolute;
   top: 50%;
