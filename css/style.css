@@ -4199,11 +4199,7 @@ About Area
     padding-bottom: 70px;
   }
 }
-@media (max-width: 767px) {
-  .abouttabarea {
-    padding-bottom: 50px;
-  }
-}
+
 
 @media (min-width: 992px) and (max-width: 1365px) {
   .aboutarea__content__tap__wraper .single__event__wraper .eventarea__content__wraper .single__event__heading h4 {
