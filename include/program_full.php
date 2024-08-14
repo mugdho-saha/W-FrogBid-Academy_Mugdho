@@ -678,11 +678,11 @@
                                 </div>
                                 <div class="gridarea__heading">
                                     <h3><a href="Keyboard">কীবোর্ড কোর্স</a></h3>
-                                    <span class="mega__menu__label">ভর্তি ফীঃ ৳৫০০</span>
+                                    <span class="mega__menu__label">ভর্তি ফীঃ ৳১,০০০</span>
                                 </div>
                                 <div class="gridarea__price">
-                                    ৳১,০০০
-                                    <del>/ ৳১,২০০</del>
+                                    ৳১,২০০
+                                    <del>/ ৳১,৫০০</del>
                                     <span> মাসিক বেতন </span>
 
                                 </div>

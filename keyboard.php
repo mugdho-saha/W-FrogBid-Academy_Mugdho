@@ -105,7 +105,7 @@
                                     </div>
 
                                     <div class="pricingarea__number">
-                                        <h1><span class="price__currency">৳</span>১,০০০<span class="price__durition">/ মাস</span></h1>
+                                        <h1><span class="price__currency">৳</span>১,২০০<span class="price__durition">/ মাস</span></h1>
                                     </div>
                                 </div>
                                 <div class="pricingarea__list">
@@ -153,7 +153,7 @@
                                     </div>
 
                                     <div class="pricingarea__number">
-                                        <h1><span class="price__currency">৳</span>১,০০০<span class="price__durition">/ মাস</span></h1>
+                                        <h1><span class="price__currency">৳</span>১,২০০<span class="price__durition">/ মাস</span></h1>
                                     </div>
                                 </div>
                                 <div class="pricingarea__list">
@@ -201,7 +201,7 @@
                                     </div>
 
                                     <div class="pricingarea__number">
-                                        <h1><span class="price__currency">৳</span>১,০০০<span class="price__durition">/ মাস</span></h1>
+                                        <h1><span class="price__currency">৳</span>১,২০০<span class="price__durition">/ মাস</span></h1>
                                     </div>
                                 </div>
                                 <div class="pricingarea__list">
