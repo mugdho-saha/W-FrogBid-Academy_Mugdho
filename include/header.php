@@ -30,7 +30,7 @@
                                     <div class="headerarea__submenu mega__menu__wrapper">
 
                                         <div class="row">
-                                            <div class="col-5 mega__menu__single__wrap">
+                                            <div class="col-3 mega__menu__single__wrap">
                                                 <h4 class="mega__menu__title"><a href="Home#art_program">আর্ট কোর্সসমূহঃ</a></h4>
                                                 <ul class="mega__menu__item">
                                                     <li><a href="Mini-Master">মিনি মাস্টার<span class="mega__menu__label">৪-৬ বছর</span></a>
@@ -44,16 +44,28 @@
 
                                                 </ul>
                                             </div>
-                                            <div class="col-4 mega__menu__single__wrap">
+                                            <div class="col-3 mega__menu__single__wrap">
                                                 <h4 class="mega__menu__title"><a href="Home#coding_program">কোডিং কোর্সসমূহঃ <span
-                                                            class="mega__menu__label"> ১২ থেকে ২০ বছর বয়সিীদের জন্য</span></a>
+                                                            class="mega__menu__label"> ১০ থেকে ১৮ বছর বয়সিীদের জন্য</span></a>
                                                 </h4>
                                                 <ul class="mega__menu__item">
-                                                    <li><a href="Code-Star">কোড ষ্টার<span class="mega__menu__label">কোর্সের সময়কালঃ ৩ মাস</span></a>
+                                                    <li><a href="Code-Star">কোড ষ্টার<span class="mega__menu__label">সময়কালঃ ৩ মাস</span></a>
                                                     </li>
-                                                    <li><a href="Code_Craft">কোড ক্র্যাফট<span class="mega__menu__label">কোর্সের সময়কালঃ ৬ মাস</span></a>
+                                                    <li><a href="Code_Craft">কোড ক্র্যাফট<span class="mega__menu__label">সময়কালঃ ৬ মাস</span></a>
                                                     </li>
-                                                    <li><a href="Code_Master">কোড মাস্টার<span class="mega__menu__label">কোর্সের সময়কালঃ ১ বছর</span></a>
+                                                    <li><a href="Code_Master">কোড মাস্টার<span class="mega__menu__label">সময়কালঃ ১ বছর</span></a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                            <div class="col-3 mega__menu__single__wrap">
+                                                <h4 class="mega__menu__title"><a href="Home#music_program">মিউজিক কোর্সসমূহঃ </a>
+                                                </h4>
+                                                <ul class="mega__menu__item">
+                                                    <li><a href="Ukulele">ইউকুলেলে কোর্স<span class="mega__menu__label"> ৩ মাস ও ৬ মাস</span></a>
+                                                    </li>
+                                                    <li><a href="Keyboard">কীবোর্ড কোর্স<span class="mega__menu__label">৩ মাস,৬ মাস ও ১ বছর</span></a>
+                                                    </li>
+                                                    <li><a href="Guitar">গীটার কোর্স<span class="mega__menu__label">৩ মাস,৬ মাস ও ১ বছর</span></a>
                                                     </li>
                                                 </ul>
                                             </div>

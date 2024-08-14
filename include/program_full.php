@@ -592,3 +592,164 @@
             </div>
         </div>
         <!-- counter__section__end-->
+
+
+        <!-- about__tap__section__start -->
+        <div class="abouttabarea sp_top_100" id="music_program">
+            <div class="container">
+                <div class="row">
+                    <div class="section__title text-center" data-aos="fade-up">
+                        <div class="section__title__button">
+                            <div class="default__small__button">প্রোগ্রাম</div>
+                        </div>
+                        <div class="section__title__heading heading__underline">
+                            <h2> মিউজিক <span>প্রোগ্রাম </span>
+                                <br></h2>
+                        </div>
+                    </div>
+                </div>
+                <div class="row align-items-center justify-content-center">
+                    <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12">
+                        <div class="gridarea__wraper">
+                            <div class="gridarea__img">
+                                <a href="Ukulele"><img loading="lazy" src="images/music/music_2.jpg"
+                                                         alt="grid"></a>
+                                <div class="gridarea__small__button">
+                                </div>
+                                <div class="gridarea__small__icon">
+                                    <a href="Ukulele"><i class="icofont-heart-alt"></i></a>
+                                </div>
+
+                            </div>
+                            <div class="gridarea__content">
+                                <div class="gridarea__list">
+                                    <ul>
+                                        <li style="width: 100%">
+                                            <i class="icofont-music-alt"></i> ৩ ও ৬ মাস মেয়াদি
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="gridarea__heading">
+                                    <h3><a href="Ukulele"> ইউকুলেলে কোর্স</a></h3>
+                                    <span class="mega__menu__label">ভর্তি ফীঃ ৳৫০০</span>
+                                </div>
+                                <div class="gridarea__price">
+                                    ৳১,০০০
+                                    <del>/ ৳১,২০০</del>
+                                    <span> মাসিক বেতন </span>
+
+                                </div>
+                                <div class="gridarea__bottom">
+                                    <a href="Ukulele">
+                                        <div class="gridarea__small__img">
+                                            <div class="gridarea__small__content flex align-items-center justify-content-center">
+                                                <h6> প্রতি ক্লাশে সর্বচ্চ ১২ জন।</h6>
+                                                <div class="row text-center">
+                                                    <div class="col-12">
+                                                        <a class="default__button_new mt-3" href="Ukulele">বিস্তারিত</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12">
+                        <div class="gridarea__wraper">
+                            <div class="gridarea__img">
+                                <a href="Keyboard"><img loading="lazy" src="images/music/music_3.jpg"
+                                                         alt="grid"></a>
+                                <div class="gridarea__small__button">
+                                </div>
+                                <div class="gridarea__small__icon">
+                                    <a href="Keyboard"><i class="icofont-heart-alt"></i></a>
+                                </div>
+
+                            </div>
+                            <div class="gridarea__content">
+                                <div class="gridarea__list">
+                                    <ul>
+                                        <li style="width: 100%">
+                                            <i class="icofont-music-alt"></i> ৩ মাস,৬ মাস ও ১ বছর মেয়াদি
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="gridarea__heading">
+                                    <h3><a href="Keyboard">কীবোর্ড কোর্স</a></h3>
+                                    <span class="mega__menu__label">ভর্তি ফীঃ ৳৫০০</span>
+                                </div>
+                                <div class="gridarea__price">
+                                    ৳১,০০০
+                                    <del>/ ৳১,২০০</del>
+                                    <span> মাসিক বেতন </span>
+
+                                </div>
+                                <div class="gridarea__bottom">
+                                    <a href="Keyboard">
+                                        <div class="gridarea__small__img">
+                                            <div class="gridarea__small__content flex align-items-center justify-content-center">
+                                                <h6> প্রতি ক্লাশে সর্বচ্চ ১২ জন।</h6>
+                                                <div class="row text-center">
+                                                    <div class="col-12">
+                                                        <a class="default__button_new mt-3" href="Keyboard">বিস্তারিত</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12">
+                        <div class="gridarea__wraper">
+                            <div class="gridarea__img">
+                                <a href="Guitar"><img loading="lazy" src="images/music/music_1.jpg"
+                                                         alt="grid"></a>
+                                <div class="gridarea__small__button">
+                                </div>
+                                <div class="gridarea__small__icon">
+                                    <a href="Guitar"><i class="icofont-heart-alt"></i></a>
+                                </div>
+
+                            </div>
+                            <div class="gridarea__content">
+                                <div class="gridarea__list">
+                                    <ul>
+                                        <li style="width: 100%">
+                                            <i class="icofont-music-alt"></i> ৩ মাস,৬ মাস ও ১ বছর মেয়াদি
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="gridarea__heading">
+                                    <h3><a href="Guitar">গীটার কোর্স</a></h3>
+                                    <span class="mega__menu__label">ভর্তি ফীঃ ৳৫০০</span>
+                                </div>
+                                <div class="gridarea__price">
+                                    ৳১,০০০
+                                    <del>/ ৳১,২০০</del>
+                                    <span> মাসিক বেতন </span>
+
+                                </div>
+                                <div class="gridarea__bottom">
+                                    <a href="Guitar">
+                                        <div class="gridarea__small__img">
+                                            <div class="gridarea__small__content flex align-items-center justify-content-center">
+                                                <h6> প্রতি ক্লাশে সর্বচ্চ ১২ জন।</h6>
+                                                <div class="row text-center">
+                                                    <div class="col-12">
+                                                        <a class="default__button_new mt-3" href="Guitar">বিস্তারিত</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- .about__tap__section__end -->

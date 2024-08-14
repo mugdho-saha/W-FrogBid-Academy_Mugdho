@@ -199,6 +199,20 @@
                     </div>
                 </div>
 
+                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12" data-aos="fade-up">
+                    <div class="single__blog__wraper">
+                        <div class="single__blog__img text-center">
+                            <img loading="lazy" src="images/music.png" alt="blog" style="width: 50%; height: auto">
+                        </div>
+                        <div class="single__blog__content">
+                            <h4><a href="#music_program"> মিউজিক </a></h4>
+                            <div class="single__blog__bottom__button">
+                                <a href="#music_program"> বিস্তারিত দেখুন </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
             </div>
         </div>
     </div>

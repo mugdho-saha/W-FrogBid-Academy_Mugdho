@@ -47,6 +47,18 @@
                                 </li>
 
                                 <li class="menu-item-has-children">
+                                    <a href="Home#music_program">মিউজিক কোর্সসমূহঃ</a>
+                                    <ul class="dropdown">
+                                        <li><a href="Ukulele">ইউকুলেলে কোর্স</a>
+                                        </li>
+                                        <li><a href="Keyboard">কীবোর্ড কোর্স</a>
+                                        </li>
+                                        <li><a href="Guitar">গীটার কোর্স</a>
+                                        </li>
+                                    </ul>
+                                </li>
+
+                                <li class="menu-item-has-children">
                                     <div class="mega__menu__img">
                                         <a href="#"><img loading="lazy" src="images/menu_banner.png"
                                                          alt="Mega Menu"></a>
@@ -62,30 +74,6 @@
 
             </div>
 
-        </div>
-        <div class="mobile-curr-lang-wrap">
-            <!--<div class="single-mobile-curr-lang">
-                <a class="mobile-language-active" href="#">Language <i class="icofont-thin-down"></i></a>
-                <div class="lang-curr-dropdown lang-dropdown-active">
-                    <ul>
-                        <li><a href="#">English (US)</a></li>
-                        <li><a href="#">English (UK)</a></li>
-                        <li><a href="#">Spanish</a></li>
-                    </ul>
-                </div>
-            </div>-->
-
-            <!-- <div class="single-mobile-curr-lang">
-                        <a class="mobile-currency-active" href="#">Currency <i class="icofont-thin-down"></i></a>
-                        <div class="lang-curr-dropdown curr-dropdown-active">
-                            <ul>
-                                <li><a href="#">USD</a></li>
-                                <li><a href="#">EUR</a></li>
-                                <li><a href="#">Real</a></li>
-                                <li><a href="#">BDT</a></li>
-                            </ul>
-                        </div>
-                    </div> -->
         </div>
         <div class="mobile-social-wrap">
             <a class="facebook" href="https://www.facebook.com/frogbidacademy" target="_blank"><i class="icofont icofont-facebook"></i></a>
